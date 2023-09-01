@@ -1,0 +1,167 @@
+@charset "UTF-8";
+/*
+Theme Name: Library Bookstore
+Author: TheMagnifico52
+Theme URI: https://www.themagnifico.net/themes/free-bookstore-wordpress-theme/
+Author URI: https://www.themagnifico.net/
+Description: Library Bookstore WordPress Theme is designed especially for libraries, bookstores, and other literary-focused websites. It can be used to create an online presence, an online store, or just a literary-focused blog website. The theme comes with a clean and modern design, making it easy for users to navigate and find the information they need. Library Bookstore WordPress Theme comes with a responsive design, which ensures that the website looks great and functions seamlessly on any device. Whether users are browsing on a desktop computer, tablet, or smartphone, they will be able to access all of the website's features and content without any issues. In terms of features, the Library Bookstore WordPress Theme includes a range of features that are ideal for libraries and bookstores. The theme includes a built-in catalog system that allows users to easily search for and locate books in the library's collection. Users can search by author, title, subject, and more, making it easy to find the books they're looking for. In addition to these features, the Library Bookstore theme also includes a blog section where users can publish news, updates, and other relevant content. The theme is fully compatible with WordPress's blogging platform, making it easy to create and publish high-quality content that engages users and drives traffic to the website. The theme is also translation ready and helps in translating the text on your website to multiple local and international languages. 
+Version: 0.6
+Tested up to: 6.2
+Requires PHP: 5.6
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: digital-books
+Text Domain: library-bookstore
+Tags: custom-logo, one-column, two-columns, wide-blocks, block-styles, editor-style, sticky-post, custom-background, custom-colors, custom-header, custom-menu, featured-images, flexible-header, full-width-template, threaded-comments, theme-options, rtl-language-support, left-sidebar, right-sidebar, grid-layout, blog, e-commerce, education
+
+Library Bookstore WordPress Theme has been created by TheMagnifico52(themagnifico.net), 2023.
+Library Bookstore WordPress Theme is released under the terms of GNU GPL
+*/
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "Libre Baskerville";
+}
+p{
+    font-family: "Libre Baskerville";
+}
+a, .sidebar ul li a:hover, #colophon a:hover, #colophon a:focus, p.price, .woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price, .woocommerce-message::before, .woocommerce-info::before, .slider-inner-box a h2,.slider-inner-box h2,.main-navigation .menu > li > a:hover{
+    color: #ff9606;
+}
+.top-info,.serach_inner,#top-slider,.sticky .entry-title::before, .main-navigation .sub-menu, #button, .sidebar input[type="submit"], .comment-respond input#submit, .post-navigation .nav-previous a:hover, .post-navigation .nav-next a:hover, .posts-navigation .nav-previous a:hover, .posts-navigation .nav-next a:hover, .woocommerce .woocommerce-ordering select, .woocommerce ul.products li.product .onsale, .woocommerce span.onsale, .pro-button a, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .wp-block-button__link, .serv-box:hover, .woocommerce-account .woocommerce-MyAccount-navigation ul li, .btn-primary, .sidebar h5, .toggle-nav i, span.onsale, .serach_inner [type="submit"],span.cart-value {
+    background: #ff9606;
+}
+
+.slide-btn a,#colophon{
+    background-color: #000;
+}
+.owl-carousel{
+    display: block !important; 
+}
+.slide-btn a:hover,#button:hover{
+    color: #000;
+    background-color: #ffffff;
+}
+.slider-inner-box p{
+    font-size: 13px;
+    line-height: 18px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Ubuntu";
+    
+}
+.slider-inner-box {
+    right: 60%;
+    left: 15%;
+}
+.pro-button a:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover,
+.woocommerce #respond input#submit.alt:hover, 
+.woocommerce a.button.alt:hover, 
+.woocommerce button.button.alt:hover, 
+.woocommerce input.button.alt:hover{
+    border: solid 2px #ff9606;
+    background: transparent;
+    color: #ff9606;
+}
+.wp-block-quote, .wp-block-quote:not(.is-large):not(.is-style-large), .wp-block-pullquote{
+    border-color: #ff9606 !important;
+}
+.main-navigation .menu li.current-menu-item  a {
+    color: #ff9606;
+}
+.main-navigation .menu > li > a:hover{
+    background: #ff9606;
+    color: #fff !important;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+.slider-inner-box h2{
+    font-size: 33px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Libre Baskerville";
+}
+.top-info p{
+    color: #fff;
+}
+.page-template-page-template .main_header{
+    background: transparent;
+}
+.slider-inner-box {
+    text-align: left;
+}
+.slide-btn a {
+    padding: 15px 25px;
+    border-radius: 5px;
+}
+#latest-product h3 {
+    font-size: 35px;
+}
+.product-image {
+    position: relative;
+}
+.product-content {
+    position: relative;
+}
+.product-box h5.price {
+    color: #fff !important;
+    font-size: 16px;
+}
+h5.price {
+    position: absolute;
+    background: #ff9606;
+    top: -55px;
+    right: 0px;
+    padding: 18px 12px;
+    border-radius: 40px;
+    left: 0px;
+    margin: 0 auto;
+    width: 75px;
+    height: 75px;
+}
+.product-box {
+    padding: 0px;
+    text-align: center;
+}
+.product-box h3 a {
+     font-size: 14px;
+    line-height: 19px;
+    color: #353535;
+    font-weight: 400;
+    font-family: "Libre Baskerville";
+    text-align: center;
+}
+.product-box img {
+    margin-bottom: 15px;
+}
+.product-box h5.price{
+    color: #ff9606;
+    font-family: "Ubuntu";
+}
+.product-box span.onsale {
+    padding: 5px 10px;
+}
+.product-content p {
+    font-size: 12px;
+    line-height: 19px;
+    color: #9c9c9c;
+    font-weight: 300;
+    font-family: "Libre Baskerville";
+    text-align: center;
+}
+
+@media screen and (min-width: 320px) and (max-width: 720px){
+   .sidenav #site-navigation {
+        padding: 40px 0;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    
+}
+@media screen and (min-width: 1024px) and (max-width: 1199px){
+    
+}

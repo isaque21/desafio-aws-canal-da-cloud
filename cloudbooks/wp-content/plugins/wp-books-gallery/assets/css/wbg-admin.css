@@ -1,0 +1,274 @@
+table.fixed {
+    table-layout: auto !important;
+}
+
+#cover,
+#title,
+#taxonomy-book_category,
+#author_main,
+#tags,
+#status,
+#date {
+    width: fit-content;
+}
+
+table.wbg-general-settings-table tr th,
+table.wbg-general-settings-table tr td,
+table.wbg-general-style-settings-table tr th,
+table.wbg-general-style-settings-table tr td,
+table.wbg-details-settings-table tr th,
+table.wbg-details-settings-table tr td,
+table.wbg-search-settings-table tr th,
+table.wbg-search-settings-table tr td,
+table.wbg-search-style-settings-table tr th,
+table.wbg-search-style-settings-table tr td,
+table.wbg-single-style-settings-table tr th,
+table.wbg-single-style-settings-table tr td,
+table.wbg-gallery-conent-settings-table tr td {
+    text-align: left;
+}
+
+table.wbg-general-settings-table tr th,
+table.wbg-general-style-settings-table tr th,
+table.wbg-details-settings-table tr th,
+table.wbg-search-settings-table tr th,
+table.wbg-search-style-settings-table tr th,
+table.wbg-single-style-settings-table tr th,
+table.wbg-gallery-conent-settings-table tr th {
+    font-weight: 600;
+    width: 180px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+table.wbg-general-settings-table tr td,
+table.wbg-search-settings-table tr td,
+table.wbg-details-settings-table tr td,
+table.wbg-single-style-settings-table tr td,
+table.wbg-gallery-conent-settings-table tr td,
+table.wbg-general-style-settings-table tr td,
+table.wbg-search-style-settings-table tr td {
+    border: 1px solid #DDD;
+    background: #F2F2F2;
+    padding: 10px;
+}
+
+
+/* Alert Bar Started */
+
+.wbg-alert {
+    padding: 20px !important;
+    color: white;
+}
+
+.wbg-alert.success {
+    background-color: #6ABD6E;
+}
+
+.wbg-alert.error {
+    background-color: #F66358;
+}
+
+.wbg-alert.warning {
+    background-color: #FFAA2B;
+}
+
+.wbg-alert.info {
+    background-color: #47A8F5;
+}
+
+.wbg-closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.wbg-closebtn:hover {
+    color: black;
+}
+
+
+/* Alert Bar Ended */
+
+input#wbg_shortcode {
+    border: 2px dotted #ebf0ff;
+    margin: 0;
+    text-align: center;
+    background: #FDB813;
+    color: #CC0000;
+    font-size: 20px;
+    line-height: 32px;
+    padding-bottom: 4px;
+    width: 200px;
+}
+
+
+/* Nav Tab */
+
+.settings-banner h2 {
+    color: #5E24DD;
+    font-size: 28px;
+}
+
+.nav-tab-wrapper {
+    border-bottom: 0px solid #5E24DD;
+}
+
+.wbg-tab {
+    border: 0px;
+    border-top: 2px solid #5E24DD;
+    border: 1px solid #e5e5e5;
+    background-color: #FFF;
+    color: #5E24DD;
+    padding: 10px 30px;
+    font-size: 16px;
+    border-bottom: 0;
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+.wbg-tab:hover {
+    background-color: #5E24DD;
+    color: #FFF;
+    border-bottom: 0px;
+}
+
+.wbg-tab.wbg-tab-active {
+    background-color: #5E24DD;
+    color: #FFF;
+}
+
+.button.wbg-button,
+.button.wbg-button:active {
+    background: #5E24DD;
+    color: #FFF;
+    border: 0px solid #5E24DD;
+    border-radius: 5px;
+    padding: 6px 20px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.button.wbg-button:hover {
+    border: 1px solid #5E24DD;
+    background: #FFF;
+    color: #5E24DD;
+}
+
+
+/* Common Admin Styles Started */
+
+.wbg-wrap {
+    display: inline-block;
+    min-height: 100px;
+    clear: both;
+    width: 100%;
+}
+
+.wbg_personal_wrap.wbg_personal_help {
+    background: #fff;
+    margin: 0 20px 20px 0;
+    padding: 15px;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+}
+
+.wbg_personal_wrap h1 {
+    font-size: 30px !important;
+    text-align: center;
+    border: none;
+    padding: 15px 10px !important;
+    background: #6029F6;
+    color: #fff;
+    margin: 15px !important;
+    line-height: 1;
+    /*margin: 12px 12px 20px 0 !important;*/
+    border-radius: 3px;
+}
+
+.wbg_personal_wrap .help-link {
+    padding: 16px;
+}
+
+.wbg-hlp-btn {
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 15px;
+    margin-right: 10px;
+    padding: 12px 16px;
+}
+
+.wbg-hlp-btn:hover {
+    color: #f1f1f1;
+}
+
+.wbg-btn-1 {
+    background-color: #49B158;
+}
+
+.wbg-btn-2 {
+    background-color: #A62F66;
+}
+
+.wbg-btn-3 {
+    background-color: #F25757;
+}
+
+.wbg-btn-4 {
+    background-color: #FC368C;
+}
+
+.wbg_personal_wrap .hire-ad {
+    padding: 10px 20px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    background: #ffffe0;
+    border: 1px solid #E6DB55;
+    margin: 30px auto;
+    width: 60%;
+}
+
+.wbg-admin-sidebar .postbox {
+    text-align: center;
+}
+
+.wbg-admin-sidebar .postbox h3.hndle {
+    font-size: 14px;
+    padding: 8px 12px;
+    margin: 0;
+    line-height: 1.4;
+    border-bottom: 1px solid #ccd0d4;
+}
+
+.wbg-admin-sidebar .postbox.pro-features {
+    background: #202332;
+}
+
+.wbg-admin-sidebar .postbox.pro-features h3.hndle {
+    font-size: 18px;
+    color: #E6DB55;
+}
+
+.wbg-admin-sidebar .postbox.pro-features ul {
+    width: 90%;
+    margin: auto;
+    text-align: left;
+    list-style: none;
+    color: #FFFFFF;
+}
+
+.wbg-admin-sidebar .postbox.pro-features ul a {
+    color: #35c481;
+    text-decoration: none;
+}
+
+
+/* Common Admin Styles Ended */

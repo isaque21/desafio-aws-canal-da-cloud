@@ -1,0 +1,132 @@
+2023-08-27T13:37:27+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php:7
+Stack trace:
+#0 /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php(23): envo_ecommerce_cart_link()
+#1 /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php(95): envo_ecommerce_header_cart()
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): envo_ecommerce_header_icons()
+#3 /var/www/html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#4 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /var/www/html/wp-content/themes/envo-ecommerce/template-parts/template-part-topnav.php(34): do_action()
+#6 /var/www/html/wp-includes/template.php(787): require('...')
+#7 /var/www/html/wp-includes/template.php(720): load_template()
+#8 /var/www/html/wp-includes/general-template.php(206): locate_template()
+#9 /var/www/html/wp-content/themes/envo-ecommerce/header.php(12): get_template_part()
+#10 /var/www/html/wp-includes/template.php(785): require_once('...')
+#11 /var/www/html/wp-includes/template.php(720): load_template()
+#12 /var/www/html/wp-includes/general-template.php(48): locate_template()
+#13 /var/www/html/wp-content/themes/envo-ecommerce/404.php(1): get_header()
+#14 /var/www/html/wp-includes/template-loader.php(106): include('...')
+#15 /var/www/html/wp-blog-header.php(19): require_once('...')
+#16 /var/www/html/index.php(17): require('...')
+#17 {main}
+  thrown, em /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php, na linha 7
+
+2023-08-27T13:37:35+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php:7
+Stack trace:
+#0 /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php(23): envo_ecommerce_cart_link()
+#1 /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php(95): envo_ecommerce_header_cart()
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): envo_ecommerce_header_icons()
+#3 /var/www/html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#4 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /var/www/html/wp-content/themes/envo-ecommerce/template-parts/template-part-topnav.php(34): do_action()
+#6 /var/www/html/wp-includes/template.php(787): require('...')
+#7 /var/www/html/wp-includes/template.php(720): load_template()
+#8 /var/www/html/wp-includes/general-template.php(206): locate_template()
+#9 /var/www/html/wp-content/themes/envo-ecommerce/header.php(12): get_template_part()
+#10 /var/www/html/wp-includes/template.php(785): require_once('...')
+#11 /var/www/html/wp-includes/template.php(720): load_template()
+#12 /var/www/html/wp-includes/general-template.php(48): locate_template()
+#13 /var/www/html/wp-content/themes/envo-ecommerce/404.php(1): get_header()
+#14 /var/www/html/wp-includes/template-loader.php(106): include('...')
+#15 /var/www/html/wp-blog-header.php(19): require_once('...')
+#16 /var/www/html/index.php(17): require('...')
+#17 {main}
+  thrown, em /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php, na linha 7
+
+2023-08-27T13:37:42+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php:7
+Stack trace:
+#0 /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php(23): envo_ecommerce_cart_link()
+#1 /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php(95): envo_ecommerce_header_cart()
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): envo_ecommerce_header_icons()
+#3 /var/www/html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#4 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /var/www/html/wp-content/themes/envo-ecommerce/template-parts/template-part-topnav.php(34): do_action()
+#6 /var/www/html/wp-includes/template.php(787): require('...')
+#7 /var/www/html/wp-includes/template.php(720): load_template()
+#8 /var/www/html/wp-includes/general-template.php(206): locate_template()
+#9 /var/www/html/wp-content/themes/envo-ecommerce/header.php(12): get_template_part()
+#10 /var/www/html/wp-includes/template.php(785): require_once('...')
+#11 /var/www/html/wp-includes/template.php(720): load_template()
+#12 /var/www/html/wp-includes/general-template.php(48): locate_template()
+#13 /var/www/html/wp-content/themes/envo-ecommerce/404.php(1): get_header()
+#14 /var/www/html/wp-includes/template-loader.php(106): include('...')
+#15 /var/www/html/wp-blog-header.php(19): require_once('...')
+#16 /var/www/html/index.php(17): require('...')
+#17 {main}
+  thrown, em /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php, na linha 7
+
+2023-08-27T13:38:08+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php:7
+Stack trace:
+#0 /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php(23): envo_ecommerce_cart_link()
+#1 /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php(95): envo_ecommerce_header_cart()
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): envo_ecommerce_header_icons()
+#3 /var/www/html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#4 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /var/www/html/wp-content/themes/envo-ecommerce/template-parts/template-part-topnav.php(34): do_action()
+#6 /var/www/html/wp-includes/template.php(787): require('...')
+#7 /var/www/html/wp-includes/template.php(720): load_template()
+#8 /var/www/html/wp-includes/general-template.php(206): locate_template()
+#9 /var/www/html/wp-content/themes/envo-ecommerce/header.php(12): get_template_part()
+#10 /var/www/html/wp-includes/template.php(785): require_once('...')
+#11 /var/www/html/wp-includes/template.php(720): load_template()
+#12 /var/www/html/wp-includes/general-template.php(48): locate_template()
+#13 /var/www/html/wp-content/themes/envo-ecommerce/404.php(1): get_header()
+#14 /var/www/html/wp-includes/template-loader.php(106): include('...')
+#15 /var/www/html/wp-blog-header.php(19): require_once('...')
+#16 /var/www/html/index.php(17): require('...')
+#17 {main}
+  thrown, em /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php, na linha 7
+
+2023-08-27T13:38:09+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php:7
+Stack trace:
+#0 /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php(23): envo_ecommerce_cart_link()
+#1 /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php(95): envo_ecommerce_header_cart()
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): envo_ecommerce_header_icons()
+#3 /var/www/html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#4 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /var/www/html/wp-content/themes/envo-ecommerce/template-parts/template-part-topnav.php(34): do_action()
+#6 /var/www/html/wp-includes/template.php(787): require('...')
+#7 /var/www/html/wp-includes/template.php(720): load_template()
+#8 /var/www/html/wp-includes/general-template.php(206): locate_template()
+#9 /var/www/html/wp-content/themes/envo-ecommerce/header.php(12): get_template_part()
+#10 /var/www/html/wp-includes/template.php(785): require_once('...')
+#11 /var/www/html/wp-includes/template.php(720): load_template()
+#12 /var/www/html/wp-includes/general-template.php(48): locate_template()
+#13 /var/www/html/wp-content/themes/envo-ecommerce/404.php(1): get_header()
+#14 /var/www/html/wp-includes/template-loader.php(106): include('...')
+#15 /var/www/html/wp-blog-header.php(19): require_once('...')
+#16 /var/www/html/index.php(17): require('...')
+#17 {main}
+  thrown, em /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php, na linha 7
+
+2023-08-27T13:38:11+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php:7
+Stack trace:
+#0 /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php(23): envo_ecommerce_cart_link()
+#1 /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php(95): envo_ecommerce_header_cart()
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): envo_ecommerce_header_icons()
+#3 /var/www/html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#4 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /var/www/html/wp-content/themes/envo-ecommerce/template-parts/template-part-topnav.php(34): do_action()
+#6 /var/www/html/wp-includes/template.php(787): require('...')
+#7 /var/www/html/wp-includes/template.php(720): load_template()
+#8 /var/www/html/wp-includes/general-template.php(206): locate_template()
+#9 /var/www/html/wp-content/themes/envo-ecommerce/header.php(12): get_template_part()
+#10 /var/www/html/wp-includes/template.php(785): require_once('...')
+#11 /var/www/html/wp-includes/template.php(720): load_template()
+#12 /var/www/html/wp-includes/general-template.php(48): locate_template()
+#13 /var/www/html/wp-content/themes/envo-ecommerce/404.php(1): get_header()
+#14 /var/www/html/wp-includes/template-loader.php(106): include('...')
+#15 /var/www/html/wp-blog-header.php(19): require_once('...')
+#16 /var/www/html/index.php(17): require('...')
+#17 {main}
+  thrown, em /var/www/html/wp-content/themes/envo-ecommerce/lib/woocommerce.php, na linha 7
+

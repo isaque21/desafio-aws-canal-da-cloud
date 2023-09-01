@@ -1,0 +1,1194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Books Gallery\n"
+"POT-Creation-Date: 2021-12-27 04:22+0600\n"
+"PO-Revision-Date: 2022-04-06 22:16+0000\n"
+"Last-Translator: Hossni Mubarak\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 :(((n%100>19)||(( n%100==0)&&(n!"
+"=0)))? 2 : 1));\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;esc_html_e;esc_html;esc_html_\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: wp-books-gallery.php\n"
+"X-Poedit-SearchPath-2: admin\n"
+"X-Poedit-SearchPath-3: admin/cls-books-gallery-admin.php\n"
+"X-Poedit-SearchPath-4: inc/cls-books-gallery-master.php\n"
+"X-Poedit-SearchPath-5: admin/view/gallery-settings.php\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.5.5; wp-5.8.2"
+
+#: core/gallery-content.php:173
+msgid " »"
+msgstr " »"
+
+#: admin/view/partial/gallery-content.php:33
+msgid "1"
+msgstr "1"
+
+#: admin/view/partial/gallery-content.php:34
+msgid "2"
+msgstr "2"
+
+#: admin/view/partial/book-information.php:375
+msgid "Active"
+msgstr "Active"
+
+#: admin/cls-books-gallery-admin.php:152
+msgid "Add New"
+msgstr "Adăugați Noi"
+
+#: admin/cls-books-gallery-admin.php:328
+msgid "Add New Author"
+msgstr "Adaugă Nou Autor"
+
+#: admin/cls-books-gallery-admin.php:151
+msgid "Add New Book"
+msgstr "Adaugă Carte Nouă"
+
+#: admin/cls-books-gallery-admin.php:199
+msgid "Add New Book Category"
+msgstr "Adaugă Carte Nouă Categorie"
+
+#: admin/cls-books-gallery-admin.php:225
+msgid "Add New Book Format"
+msgstr "Adaugă Nou Format De Carte"
+
+#: admin/cls-books-gallery-admin.php:250
+msgid "Add New Book Series"
+msgstr "Adaugă Carte Nouă Serie"
+
+#: admin/cls-books-gallery-admin.php:303
+msgid "Add New Grade Level"
+msgstr "Adaugă Nou Nivel De Clasa"
+
+#: admin/cls-books-gallery-admin.php:278
+msgid "Add New Reading Age"
+msgstr "Adaugă Nouă Lectură Vârstă"
+
+#: admin/cls-books-gallery-admin.php:323
+#: admin/view/partial/search-content.php:185
+msgid "All Authors"
+msgstr "Toți Autorii"
+
+#: admin/cls-books-gallery-admin.php:194
+msgid "All Book Categories"
+msgstr "Carte Categorii"
+
+#: admin/cls-books-gallery-admin.php:220
+msgid "All Book Formats"
+msgstr "Carte Formats"
+
+#: admin/cls-books-gallery-admin.php:245
+msgid "All Book Series"
+msgstr "Toate Seriile De Carte"
+
+#: admin/cls-books-gallery-admin.php:149
+msgid "All Books"
+msgstr "Toate Cărțile"
+
+#: admin/view/partial/search-content.php:98
+msgid "All Categories"
+msgstr "Toate Categoriile"
+
+#: admin/cls-books-gallery-admin.php:298
+msgid "All Grade Level"
+msgstr "Tot La Nivel De Clasa"
+
+#: admin/view/partial/search-content.php:156
+msgid "All Languages"
+msgstr "Toate Limbile"
+
+#: admin/view/partial/search-content.php:214
+msgid "All Publishers"
+msgstr "Toți Editorii"
+
+#: admin/cls-books-gallery-admin.php:273
+msgid "All Reading Age"
+msgstr "Tot Citind Vârstă"
+
+#: admin/view/partial/search-content.php:127
+msgid "All Years"
+msgstr "Toate Ani"
+
+#: admin/cls-books-gallery-admin.php:71 admin/cls-books-gallery-admin.php:72
+msgid "API Import"
+msgstr "API Import"
+
+#: admin/view/partial/gallery-content.php:95
+#: admin/view/partial/search-content.php:89
+#: admin/view/partial/search-content.php:118
+#: admin/view/partial/search-content.php:147
+#: admin/view/partial/search-content.php:176
+#: admin/view/partial/search-content.php:205
+#: admin/view/partial/search-content.php:236
+#: admin/view/partial/search-content.php:265
+msgid "Ascending"
+msgstr "Crescator"
+
+#: admin/view/partial/book-information.php:130 front/view/single.php:337
+msgid "ASIN"
+msgstr "ASIN"
+
+#: admin/cls-books-gallery-admin.php:320 admin/cls-books-gallery-admin.php:321
+#: admin/cls-books-gallery-admin.php:330
+#: admin/view/partial/book-information.php:55
+#: admin/view/partial/gallery-content.php:82
+msgid "Author"
+msgstr "Autor"
+
+#: admin/view/partial/single-content.php:204
+msgid "Author Label"
+msgstr "Autor Eticheta"
+
+#: admin/view/partial/gallery-content.php:154
+msgid "Author Label Text"
+msgstr "Autor Text Etichetă"
+
+#: front/view/single.php:522
+msgid "Back"
+msgstr "Înapoi"
+
+#: admin/view/partial/gallery-styles.php:54
+#: admin/view/partial/search-styles.php:27
+#: admin/view/partial/search-styles.php:117
+#: admin/view/partial/search-styles.php:144
+#: admin/view/partial/search-styles.php:177
+msgid "Background Color"
+msgstr "Culoarea De Fundal"
+
+#: admin/cls-books-gallery-admin.php:146
+msgid "Book"
+msgstr "Carte"
+
+#: admin/cls-books-gallery-admin.php:191 admin/cls-books-gallery-admin.php:201
+msgid "Book Categories"
+msgstr "Rezervați Categorii"
+
+#: admin/cls-books-gallery-admin.php:192
+msgid "Book Category"
+msgstr "Rezervați Categorie"
+
+#: admin/cls-books-gallery-admin.php:364
+msgid "Book Cover Image"
+msgstr "Coperta De Carte Imagine"
+
+#: admin/cls-books-gallery-admin.php:61 admin/cls-books-gallery-admin.php:62
+msgid "Book Detail Settings"
+msgstr "Rezervați Setările De Detaliu"
+
+#: admin/cls-books-gallery-admin.php:375
+msgid "Book External Image Url"
+msgstr "Rezervați Externe Url-Ul Imaginii"
+
+#: admin/cls-books-gallery-admin.php:218
+msgid "Book Format"
+msgstr "Format De Carte"
+
+#: admin/cls-books-gallery-admin.php:217 admin/cls-books-gallery-admin.php:227
+msgid "Book Formats"
+msgstr "Rezervați Formats"
+
+#: admin/cls-books-gallery-admin.php:353
+#: admin/view/partial/single-content.php:37
+msgid "Book Information"
+msgstr "Informații Despre Carte"
+
+#: admin/view/partial/gallery-styles.php:40
+msgid "Book Item:"
+msgstr "Element De Carte:"
+
+#: admin/view/partial/search-content.php:50
+msgid "Book Name"
+msgstr "Nume De Carte"
+
+#: admin/cls-books-gallery-admin.php:242 admin/cls-books-gallery-admin.php:243
+#: admin/cls-books-gallery-admin.php:252
+msgid "Book Series"
+msgstr "Serie Carte"
+
+#: admin/cls-books-gallery-admin.php:145 front/view/gallery.php:200
+msgid "Books"
+msgstr "Cărți"
+
+#: admin/cls-books-gallery-admin.php:161
+msgid "books"
+msgstr "cărți"
+
+#: admin/view/partial/gallery-content.php:244
+msgid "Books Per Page"
+msgstr "Cărți Pe Pagină"
+
+#: admin/view/partial/gallery-styles.php:45
+#: admin/view/partial/search-styles.php:48
+#: admin/view/partial/search-styles.php:153
+#: admin/view/partial/search-styles.php:186
+msgid "Border Color"
+msgstr "Culoare De Frontieră"
+
+#: admin/view/partial/search-styles.php:69
+msgid "Border Radius"
+msgstr ""
+
+#: admin/view/partial/search-styles.php:90
+msgid "Border Width"
+msgstr ""
+
+#: admin/view/partial/search-content.php:292
+msgid "Button"
+msgstr "Buton"
+
+#: admin/view/partial/gallery-styles.php:68
+msgid "Button Color"
+msgstr "Culoare Buton"
+
+#: admin/view/partial/gallery-styles.php:77
+msgid "Button Font Color"
+msgstr "Butonul Font Color"
+
+#: admin/view/partial/gallery-content.php:185
+#: admin/view/partial/gallery-content.php:213
+msgid "Button Text"
+msgstr "Butonul Text"
+
+#: admin/view/partial/book-information.php:190
+msgid "Buy From Link"
+msgstr "Cumpara De La Link-Ul"
+
+#: admin/view/partial/gallery-content.php:157
+msgid "By:"
+msgstr "De către:"
+
+#: admin/view/partial/gallery-content.php:141
+msgid "Category"
+msgstr "Categorie"
+
+#: admin/view/partial/single-content.php:219
+msgid "Category Label"
+msgstr "Categorie Eticheta"
+
+#: admin/view/partial/gallery-content.php:138
+msgid "Category Label Text"
+msgstr "Categorie Eticheta Text"
+
+#: admin/view/partial/book-information.php:71
+msgid "Co-Publisher"
+msgstr "Co-Editor"
+
+#: admin/view/partial/single-content.php:252
+msgid "Co-Publisher Label"
+msgstr "Co-Editor Eticheta"
+
+#: admin/view/single-settings.php:36
+msgid "Coming Soon"
+msgstr "În Curând"
+
+#: admin/view/gallery-settings.php:22 admin/view/search-settings.php:22
+#: admin/view/single-settings.php:22
+msgid "Content"
+msgstr "Conținutul"
+
+#: admin/view/partial/book-information.php:218
+msgid "Cost Type"
+msgstr "Tipul De Cost"
+
+#: admin/view/partial/book-information.php:158
+#: admin/view/partial/gallery-content.php:87
+msgid "Country"
+msgstr "Tara"
+
+#: admin/view/partial/single-content.php:346
+msgid "Country Label"
+msgstr "Țara Etichetă"
+
+#: admin/view/partial/gallery-content.php:285
+msgid "Currency"
+msgstr "Moneda"
+
+#: admin/view/partial/gallery-content.php:83
+msgid "Date"
+msgstr "Data"
+
+#: admin/view/partial/single-content.php:277
+msgid "Date Format"
+msgstr "Formatul Datei"
+
+#: admin/view/partial/search-content.php:95
+#: admin/view/partial/search-content.php:124
+#: admin/view/partial/search-content.php:153
+#: admin/view/partial/search-content.php:182
+#: admin/view/partial/search-content.php:211
+#: admin/view/partial/search-content.php:242
+#: admin/view/partial/search-content.php:271
+msgid "Default Option"
+msgstr "Opțiune Implicită"
+
+#: admin/view/partial/gallery-content.php:98
+#: admin/view/partial/search-content.php:92
+#: admin/view/partial/search-content.php:121
+#: admin/view/partial/search-content.php:150
+#: admin/view/partial/search-content.php:179
+#: admin/view/partial/search-content.php:208
+#: admin/view/partial/search-content.php:239
+#: admin/view/partial/search-content.php:268
+msgid "Descending"
+msgstr "Descendent"
+
+#: admin/view/partial/gallery-styles.php:118
+msgid "Description"
+msgstr "Descriere"
+
+#: admin/cls-books-gallery-admin.php:162
+msgid "Description For Books"
+msgstr "Descriere Pentru Cărți"
+
+#: admin/view/partial/single-content.php:458
+msgid "Description Label"
+msgstr "Descriere Etichetă"
+
+#: admin/view/partial/gallery-content.php:170
+msgid "Description Word Length"
+msgstr "Descriere Lungime Cuvânt"
+
+#: admin/view/partial/gallery-content.php:20
+msgid "Desktop"
+msgstr "Desktop"
+
+#: admin/view/single-settings.php:9
+msgid "Details Settings"
+msgstr "Detalii Setări"
+
+#: admin/view/partial/book-information.php:174
+msgid "Dimension"
+msgstr "Dimensiune"
+
+#: admin/view/partial/single-content.php:376
+msgid "Dimension Label"
+msgstr "Dimensiune Etichetă"
+
+#: admin/view/partial/book-information.php:287
+msgid "Discount Price"
+msgstr "Reducere De Pret"
+
+#: admin/view/partial/gallery-content.php:147
+#: admin/view/partial/search-content.php:166
+#: admin/view/partial/single-content.php:198
+msgid "Display Author"
+msgstr "Display Autor"
+
+#: admin/view/partial/search-content.php:226
+msgid "Display Book Format"
+msgstr "Afișare În Format De Carte"
+
+#: admin/view/partial/search-content.php:41
+msgid "Display Book Name"
+msgstr "Afișare Nume De Carte"
+
+#: admin/view/partial/gallery-content.php:194
+msgid "Display Buy Now Button"
+msgstr "Display Cumpara Acum Buton"
+
+#: admin/view/partial/gallery-content.php:131
+#: admin/view/partial/search-content.php:79
+#: admin/view/partial/single-content.php:213
+msgid "Display Category"
+msgstr "Categoria De Afișare"
+
+#: admin/view/partial/single-content.php:246
+msgid "Display Co-Publisher"
+msgstr "Display Co-Editor"
+
+#: admin/view/partial/single-content.php:340
+msgid "Display Country"
+msgstr "Display Țară"
+
+#: admin/view/partial/gallery-content.php:163
+#: admin/view/partial/single-content.php:452
+msgid "Display Description"
+msgstr "Afișaj Descriere"
+
+#: admin/view/partial/single-content.php:370
+msgid "Display Dimension"
+msgstr "Display Dimensiune"
+
+#: admin/view/partial/gallery-content.php:178
+msgid "Display Download Button"
+msgstr "Display Butonul De Download"
+
+#: admin/view/partial/single-content.php:472
+msgid "Display Download/BuyNow Button"
+msgstr "Display Download/BuyNow Buton"
+
+#: admin/view/partial/single-content.php:419
+msgid "Display Edition"
+msgstr ""
+
+#: admin/view/partial/single-content.php:385
+msgid "Display File Size"
+msgstr "Display Dimensiune"
+
+#: admin/view/partial/single-content.php:42
+msgid "Display Format"
+msgstr "Formatul De Afișare"
+
+#: admin/view/partial/single-content.php:159
+msgid "Display Grade Level"
+msgstr "Afișare Nivel De Clasa"
+
+#: admin/view/partial/single-content.php:434
+msgid "Display Illustrator"
+msgstr ""
+
+#: admin/view/partial/search-content.php:60
+#: admin/view/partial/single-content.php:289
+msgid "Display ISBN"
+msgstr "Display ISBN"
+
+#: admin/view/partial/single-content.php:307
+msgid "Display ISBN-13"
+msgstr "Display ISBN-13"
+
+#: admin/view/partial/single-content.php:404
+msgid "Display Item Weight"
+msgstr "Element De Afișare Greutate"
+
+#: admin/view/partial/search-content.php:137
+#: admin/view/partial/single-content.php:355
+msgid "Display Language"
+msgstr "Limba De Afișare"
+
+#: admin/view/partial/single-content.php:325
+msgid "Display Pages"
+msgstr "Pagini De Afișare"
+
+#: admin/view/partial/gallery-content.php:264
+msgid "Display Pagination"
+msgstr "Display Paginare"
+
+#: admin/view/partial/single-content.php:264
+msgid "Display Publish Date"
+msgstr "Display Publica Data"
+
+#: admin/view/partial/search-content.php:195
+#: admin/view/partial/single-content.php:228
+msgid "Display Publisher"
+msgstr "Display Persoana"
+
+#: admin/view/partial/gallery-content.php:316
+msgid "Display Rating"
+msgstr "Display Rating"
+
+#: admin/view/partial/single-content.php:120
+msgid "Display Reading Age"
+msgstr "Afișa Lectură Vârstă"
+
+#: admin/view/partial/search-content.php:21
+msgid "Display Search Panel"
+msgstr "Afișaj Panou De Căutare"
+
+#: admin/view/partial/search-content.php:255
+#: admin/view/partial/single-content.php:81
+msgid "Display Series"
+msgstr "Seria De Monitoare"
+
+#: admin/view/partial/single-content.php:480
+msgid "Display Sidebar"
+msgstr "Afișa Bara Laterală"
+
+#: admin/view/partial/single-content.php:17
+msgid "Display Sub-Title"
+msgstr "Afișarea Sub-Titlu"
+
+#: admin/view/partial/gallery-content.php:234
+msgid "Display Total Books"
+msgstr "Afișare Totală Cărți"
+
+#: admin/view/partial/search-content.php:108
+msgid "Display Year"
+msgstr "Display An"
+
+#: admin/view/partial/gallery-content.php:188
+msgid "Download"
+msgstr "Download"
+
+#: admin/view/partial/gallery-styles.php:63
+msgid "Download Button"
+msgstr "Butonul De Descărcare"
+
+#: admin/view/partial/book-information.php:182
+msgid "Download Link"
+msgstr "Link De Download"
+
+#: admin/view/general-settings.php:72
+msgid "Download When Logged-in"
+msgstr "Descarcă atunci Când Logat"
+
+#: admin/cls-books-gallery-admin.php:326
+msgid "Edit Author"
+msgstr "Edit Autor"
+
+#: admin/cls-books-gallery-admin.php:153
+msgid "Edit Book"
+msgstr "Editare De Carte"
+
+#: admin/cls-books-gallery-admin.php:197
+msgid "Edit Book Category"
+msgstr "Editare De Carte Categorie"
+
+#: admin/cls-books-gallery-admin.php:223
+msgid "Edit Book Format"
+msgstr "Editare De Carte Format"
+
+#: admin/cls-books-gallery-admin.php:248
+msgid "Edit Book Series"
+msgstr "Editare De Carte Serie"
+
+#: admin/cls-books-gallery-admin.php:301
+msgid "Edit Grade Level"
+msgstr "Edit Nivel De Clasa"
+
+#: admin/cls-books-gallery-admin.php:276
+msgid "Edit Reading Age"
+msgstr "Edit Lectură Vârstă"
+
+#: admin/view/partial/book-information.php:328
+msgid "Edition"
+msgstr "Ediție"
+
+#: admin/view/partial/single-content.php:425
+msgid "Edition Label"
+msgstr ""
+
+#: admin/view/partial/gallery-content.php:104
+msgid "Enable Book Details Page"
+msgstr "Activa Pagina De Detalii Carte"
+
+#: admin/view/partial/book-information.php:210
+msgid "File Size"
+msgstr "Dimensiune"
+
+#: admin/view/partial/single-content.php:391
+msgid "File Size Label"
+msgstr "Dimensiune Etichetă"
+
+#: admin/view/partial/gallery-content.php:61
+msgid "Flip"
+msgstr "Flip"
+
+#: admin/view/partial/gallery-styles.php:91
+#: admin/view/partial/gallery-styles.php:123
+#: admin/view/partial/search-styles.php:162
+#: admin/view/partial/search-styles.php:195
+msgid "Font Color"
+msgstr "Culoare Font"
+
+#: admin/view/partial/gallery-styles.php:109
+#: admin/view/partial/gallery-styles.php:132
+msgid "Font Size"
+msgstr "Dimensiunea Fontului"
+
+#: admin/view/partial/gallery-content.php:68
+msgid "For more option please upgrade to pro."
+msgstr "Pentru mai multe opțiune vă rugăm să faceți upgrade la pro."
+
+#: admin/view/partial/single-content.php:60
+msgid "Format Label"
+msgstr "Format De Etichetă"
+
+#: admin/view/partial/book-information.php:231
+msgid "Free"
+msgstr "Gratuit"
+
+#: admin/view/partial/gallery-content.php:47
+#: admin/view/partial/single-content.php:281
+msgid "Full"
+msgstr "Plin"
+
+#: admin/view/partial/gallery-content.php:17
+msgid "Gallary Columns"
+msgstr "Gallary Coloane"
+
+#: admin/view/general-settings.php:39
+msgid "Gallery Page Slug"
+msgstr "Pagina Galerie Slug"
+
+#: admin/cls-books-gallery-admin.php:41 admin/cls-books-gallery-admin.php:42
+#: admin/view/gallery-settings.php:9
+msgid "Gallery Settings"
+msgstr "Galerie Setări"
+
+#: admin/cls-books-gallery-admin.php:31 admin/cls-books-gallery-admin.php:32
+#: admin/view/general-settings.php:22
+msgid "General Settings"
+msgstr "Setări Generale"
+
+#: admin/cls-books-gallery-admin.php:295 admin/cls-books-gallery-admin.php:296
+#: admin/cls-books-gallery-admin.php:305
+msgid "Grade Level"
+msgstr "Nivel De Clasa"
+
+#: admin/view/partial/single-content.php:177
+msgid "Grade Level Label"
+msgstr "Nivel De Clasa Label"
+
+#: lib/freemius-integrator.php:61
+#, php-format
+msgid "Hey %1$s"
+msgstr "Hei %1$s"
+
+#: admin/view/partial/gallery-styles.php:100
+msgid "Hover Color"
+msgstr "Culoare Hover"
+
+#: admin/view/partial/book-information.php:348
+msgid "Illustrator"
+msgstr "Illustrator"
+
+#: admin/view/partial/single-content.php:440
+msgid "Illustrator Label"
+msgstr ""
+
+#: admin/view/partial/gallery-content.php:52
+msgid "Image Animation"
+msgstr "Imagine De Animație"
+
+#: admin/view/partial/gallery-content.php:40
+msgid "Image Width"
+msgstr "Lățimea Imaginii"
+
+#: admin/view/wbg-api-import.php:166
+msgid "Import Books"
+msgstr "Carti De Import"
+
+#: admin/view/wbg-api-import.php:128
+msgid "Import Books From API"
+msgstr "Carti de Import De la API"
+
+#: admin/view/wbg-api-import.php:119
+msgid "Import Books Successful"
+msgstr "Import Cărți De Succes"
+
+#: admin/view/partial/book-information.php:378
+msgid "Inactive"
+msgstr "Inactiv"
+
+#: admin/view/partial/search-styles.php:112
+msgid "Input Fields"
+msgstr ""
+
+#: admin/view/partial/book-information.php:242
+msgid "Is Featured"
+msgstr "Este Prezentat"
+
+#: admin/view/partial/book-information.php:102
+#: admin/view/partial/search-content.php:69
+msgid "ISBN"
+msgstr "ISBN"
+
+#: admin/view/partial/single-content.php:295
+msgid "ISBN Label"
+msgstr "ISBN Eticheta"
+
+#: admin/view/wbg-api-import.php:157
+msgid "ISBN-10"
+msgstr "ISBN-10"
+
+#: admin/view/partial/book-information.php:110
+msgid "ISBN-13"
+msgstr "ISBN-13"
+
+#: admin/view/partial/single-content.php:313
+msgid "ISBN-13 Label"
+msgstr "ISBN-13 Eticheta"
+
+#: admin/view/partial/book-information.php:308
+msgid "Item Weight"
+msgstr "Articol Greutate"
+
+#: admin/view/partial/single-content.php:410
+msgid "Item Weight Label"
+msgstr "Articol Greutate Eticheta"
+
+#: admin/view/partial/book-information.php:166
+#: admin/view/partial/gallery-content.php:86
+msgid "Language"
+msgstr "Limba"
+
+#: admin/view/partial/single-content.php:361
+msgid "Language Label"
+msgstr "Language Label"
+
+#: admin/view/partial/gallery-content.php:31
+msgid "Mobile"
+msgstr "Mobile"
+
+#: admin/view/general-settings.php:64
+msgid "Multiple"
+msgstr "Mai multe"
+
+#: admin/view/partial/gallery-content.php:80
+msgid "Name"
+msgstr "Numele"
+
+#: admin/cls-books-gallery-admin.php:329
+msgid "New Author"
+msgstr "Nou Autor"
+
+#: admin/cls-books-gallery-admin.php:200
+msgid "New Book Category Name"
+msgstr "Carte Nouă Categorie De Nume"
+
+#: admin/cls-books-gallery-admin.php:226
+msgid "New Book Formate"
+msgstr "Noua Carte A Formiatului"
+
+#: admin/cls-books-gallery-admin.php:251
+msgid "New Book Series"
+msgstr "Noua Carte Din Seria"
+
+#: admin/cls-books-gallery-admin.php:304
+msgid "New Grade Level"
+msgstr "Noul Nivel De Clasa"
+
+#: admin/cls-books-gallery-admin.php:279
+msgid "New Reading Age"
+msgstr "Nouă Lectură Vârstă"
+
+#: admin/view/partial/book-information.php:258
+msgid "No"
+msgstr "Nu"
+
+#: front/view/featured-view.php:109
+msgid "No Books Available!"
+msgstr "Fără Cărți Disponibile!"
+
+#: front/view/gallery.php:424
+msgid "No books found."
+msgstr "Nici cărțile găsite."
+
+#: front/view/featured-content.php:20 front/view/featured-content.php:27
+#: front/view/featured-content.php:30 front/view/gallery.php:222
+#: front/view/gallery.php:229 front/view/gallery.php:232
+#: front/view/gallery.php:243 front/view/gallery.php:250
+#: front/view/gallery.php:254 front/view/single.php:103 front/view/slide.php:20
+#: front/view/slide.php:27 front/view/slide.php:30
+msgid "No Image Available"
+msgstr "Nici O Imagine Disponibile"
+
+#: admin/view/partial/gallery-content.php:56
+msgid "None"
+msgstr "Nici unul"
+
+#: admin/cls-books-gallery-admin.php:156
+msgid "Not Found"
+msgstr "Nu A Fost Găsit"
+
+#: admin/cls-books-gallery-admin.php:157
+msgid "Not found in Trash"
+msgstr "Nu a fost găsit în coșul de Gunoi"
+
+#: admin/view/partial/single-content.php:284
+msgid "Only Year"
+msgstr "Numai Anul"
+
+#: admin/view/partial/gallery-content.php:114
+msgid "Open Book Details in New Tab"
+msgstr "Deschide Cartea Detalii in New Tab"
+
+#: admin/view/partial/gallery-content.php:91
+#: admin/view/partial/search-content.php:85
+#: admin/view/partial/search-content.php:114
+#: admin/view/partial/search-content.php:143
+#: admin/view/partial/search-content.php:172
+#: admin/view/partial/search-content.php:201
+#: admin/view/partial/search-content.php:232
+#: admin/view/partial/search-content.php:261
+msgid "Order By"
+msgstr "Comanda Prin"
+
+#: admin/view/partial/book-information.php:150
+msgid "Pages"
+msgstr "Pagini"
+
+#: admin/view/partial/single-content.php:331
+msgid "Pages Label"
+msgstr "Pagini Eticheta"
+
+#: admin/cls-books-gallery-admin.php:324
+msgid "Parent Author"
+msgstr "Părinte Autor"
+
+#: admin/cls-books-gallery-admin.php:325
+msgid "Parent Author:"
+msgstr "Părinte Autor:"
+
+#: admin/cls-books-gallery-admin.php:148
+msgid "Parent Book"
+msgstr "Părinte Carte"
+
+#: admin/cls-books-gallery-admin.php:195
+msgid "Parent Book Category"
+msgstr "Părinte Categoria Carte"
+
+#: admin/cls-books-gallery-admin.php:196
+msgid "Parent Book Category:"
+msgstr "Părinte Carte Categorie:"
+
+#: admin/cls-books-gallery-admin.php:221
+msgid "Parent Book Format"
+msgstr "Părinte Format De Carte"
+
+#: admin/cls-books-gallery-admin.php:222
+msgid "Parent Book Format:"
+msgstr "Părinte Format De Carte:"
+
+#: admin/cls-books-gallery-admin.php:246
+msgid "Parent Book Series"
+msgstr "Părinte Serie Carte"
+
+#: admin/cls-books-gallery-admin.php:247
+msgid "Parent Book Series:"
+msgstr "Părinte Serie De Cărți:"
+
+#: admin/cls-books-gallery-admin.php:299
+msgid "Parent Grade Level"
+msgstr "Părinte Nivel De Clasa"
+
+#: admin/cls-books-gallery-admin.php:300
+msgid "Parent Grade Level:"
+msgstr "Părinte Nivel De Clasa:"
+
+#: admin/cls-books-gallery-admin.php:274
+msgid "Parent Reading Age"
+msgstr "Părinte Lectură Vârstă"
+
+#: admin/cls-books-gallery-admin.php:275
+msgid "Parent Reading Age:"
+msgstr "Părinte Lectură Varsta:"
+
+#: admin/view/partial/search-content.php:47
+#: admin/view/partial/search-content.php:66
+msgid "Placeholder Text"
+msgstr "Substituent De Text"
+
+#: lib/freemius-integrator.php:62
+#, php-format
+msgid ""
+"Please help us improve %2$s! If you opt-in, some data about your usage of "
+"%2$s will be sent to %5$s. If you skip this, that's okay! %2$s will still "
+"work just fine."
+msgstr ""
+"Vă rugăm să ne ajuta să îmbunătățim %2$s! Dacă vei opta, unele date despre "
+"utilizarea de către dvs. a %2$s va fi trimis la %5$s. Dacă săriți peste "
+"acest lucru, asta e bine! %2$s va funcționa în continuare bine."
+
+#: admin/view/partial/book-information.php:196
+#: admin/view/partial/book-information.php:224
+#: admin/view/partial/book-information.php:272
+#: admin/view/partial/book-information.php:293
+#: admin/view/partial/gallery-content.php:200
+#: admin/view/partial/gallery-content.php:219
+#: admin/view/partial/gallery-content.php:250
+#: admin/view/partial/gallery-content.php:270
+#: admin/view/partial/gallery-content.php:291
+#: admin/view/partial/single-content.php:48
+#: admin/view/partial/single-content.php:66
+#: admin/view/partial/single-content.php:87
+#: admin/view/partial/single-content.php:105
+#: admin/view/partial/single-content.php:126
+#: admin/view/partial/single-content.php:144
+#: admin/view/partial/single-content.php:165
+#: admin/view/partial/single-content.php:183
+msgid "Please Upgrade Now!"
+msgstr "Vă Rugăm Să Faceți Upgrade Acum!"
+
+#: admin/view/general-settings.php:78
+msgid "Please Upgrade to Professional!"
+msgstr "Vă rugăm să faceți Upgrade la Professional!"
+
+#: admin/view/general-settings.php:48
+msgid "Prefered Author"
+msgstr "Autor Preferat"
+
+#: admin/view/partial/book-information.php:234
+msgid "Premium"
+msgstr "Premium"
+
+#: admin/view/wbg-api-import.php:145
+msgid "Provide Your ISBN-10"
+msgstr "Oferi ISBN-10"
+
+#: admin/view/partial/single-content.php:270
+msgid "Publish Date Label"
+msgstr "Data Publicării Eticheta"
+
+#: admin/view/partial/book-information.php:94
+#: admin/view/partial/gallery-content.php:85
+msgid "Published On"
+msgstr "Publicat Pe"
+
+#: admin/view/partial/book-information.php:63
+#: admin/view/partial/gallery-content.php:84
+msgid "Publisher"
+msgstr "Persoana"
+
+#: admin/view/partial/single-content.php:234
+msgid "Publisher Label"
+msgstr "Persoana Eticheta"
+
+#: admin/cls-books-gallery-admin.php:270 admin/cls-books-gallery-admin.php:271
+#: admin/cls-books-gallery-admin.php:280
+msgid "Reading Age"
+msgstr "Lectură De Vârstă"
+
+#: admin/view/partial/single-content.php:138
+#, fuzzy
+#| msgid "Rading Age Label"
+msgid "Reading Age Label"
+msgstr "Rading Vârstă Eticheta"
+
+#: admin/view/partial/book-information.php:266
+msgid "Regular Price"
+msgstr "Preț Normal"
+
+#: admin/cls-books-gallery-admin.php:568
+msgid "Remove Book Cover Here"
+msgstr "Elimina Coperta De Carte Aici"
+
+#: admin/view/partial/search-styles.php:172
+msgid "Reset Button"
+msgstr ""
+
+#: admin/view/partial/gallery-content.php:57
+msgid "Rotate 360"
+msgstr "Roti 360"
+
+#: admin/view/general-settings.php:94
+#: admin/view/partial/gallery-content.php:349
+#: admin/view/partial/gallery-styles.php:144
+#: admin/view/partial/search-content.php:306
+#: admin/view/partial/search-styles.php:203
+#: admin/view/partial/single-content.php:488
+msgid "Save Settings"
+msgstr "Salvați Setările"
+
+#: admin/cls-books-gallery-admin.php:322
+msgid "Search Author"
+msgstr "Cauta Autor"
+
+#: admin/cls-books-gallery-admin.php:155
+msgid "Search Book"
+msgstr "Căutare Carte"
+
+#: admin/cls-books-gallery-admin.php:193
+msgid "Search Book Categories"
+msgstr "Căutare Carte Categorii"
+
+#: admin/cls-books-gallery-admin.php:219
+msgid "Search Book Formats"
+msgstr "Căutare Carte Formats"
+
+#: admin/cls-books-gallery-admin.php:244
+msgid "Search Book Series"
+msgstr "Căutare Carte Din Seria"
+
+#: admin/view/partial/search-content.php:300
+msgid "Search Books"
+msgstr "Cărți De Căutare"
+
+#: admin/view/partial/search-styles.php:139
+msgid "Search Button"
+msgstr ""
+
+#: admin/view/partial/search-content.php:297
+msgid "Search Button Text"
+msgstr "Butonul De Căutare De Text"
+
+#: admin/cls-books-gallery-admin.php:297
+msgid "Search Grade Level"
+msgstr "Căutare La Nivel De Clasa"
+
+#: admin/view/partial/search-content.php:29
+msgid "Search Items"
+msgstr "Elemente De Căutare"
+
+#: admin/view/partial/search-styles.php:22
+msgid "Search Panel"
+msgstr ""
+
+#: admin/cls-books-gallery-admin.php:51 admin/cls-books-gallery-admin.php:52
+#: admin/view/search-settings.php:9
+msgid "Search Panel Settings"
+msgstr "Panoul De Căutare Setările"
+
+#: admin/cls-books-gallery-admin.php:272
+msgid "Search Reading Age"
+msgstr "Căutare Lectură Vârstă"
+
+#: admin/view/partial/gallery-content.php:79
+msgid "Select One"
+msgstr "Selectați Una"
+
+#: freemius/templates/plugin-info/description.php:30
+msgid "selling_point_"
+msgstr "selling_point_"
+
+#: admin/view/partial/single-content.php:99
+msgid "Series Label"
+msgstr "Seria Eticheta"
+
+#: admin/cls-books-gallery-admin.php:567
+msgid "Set Book Cover Here"
+msgstr "Set Coperta De Carte Aici"
+
+#: admin/view/partial/gallery-content.php:341
+msgid "Shortcode:"
+msgstr "Cod scurt:"
+
+#: front/view/gallery.php:200
+msgid "Showing"
+msgstr "Arată"
+
+#: admin/view/general-settings.php:61
+msgid "Single"
+msgstr "Single"
+
+#: admin/view/partial/gallery-content.php:81
+msgid "Slug/Url"
+msgstr "Melc/Url"
+
+#: admin/view/partial/gallery-content.php:44
+msgid "Small"
+msgstr "Mici"
+
+#: admin/view/partial/gallery-content.php:75
+msgid "Sorting By"
+msgstr "Sortarea Prin"
+
+#: admin/view/partial/book-information.php:371
+#, fuzzy
+#| msgid "Status:"
+msgid "Status"
+msgstr "Status:"
+
+#: admin/view/gallery-settings.php:25 admin/view/search-settings.php:25
+#: admin/view/single-settings.php:25
+msgid "Styles"
+msgstr "Stiluri"
+
+#: admin/view/partial/book-information.php:35
+msgid "Sub Title"
+msgstr "Sub Titlul"
+
+#: front/view/single.php:449
+msgid "Tags"
+msgstr "Tag-uri"
+
+#: admin/view/general-settings.php:43
+msgid ""
+"This is your Gallery Page URL slug. Please do not use books as gallery page."
+msgstr ""
+"Aceasta este Galeria URL-ul Pagina de melc. Vă rugăm să nu utilizați cărți "
+"ca pagină de galerie."
+
+#: admin/view/partial/gallery-styles.php:86
+msgid "Title"
+msgstr "Titlu"
+
+#: admin/view/partial/gallery-content.php:123
+msgid "Title Word Length"
+msgstr "Titlul Lungime Cuvânt"
+
+#: admin/cls-books-gallery-admin.php:327
+msgid "Update Author"
+msgstr "Update Autor"
+
+#: admin/cls-books-gallery-admin.php:154
+msgid "Update Book"
+msgstr "Actualizare Carte"
+
+#: admin/cls-books-gallery-admin.php:198
+msgid "Update Book Category"
+msgstr "Update Categoria Carte"
+
+#: admin/cls-books-gallery-admin.php:224
+msgid "Update Book Format"
+msgstr "Update Format De Carte"
+
+#: admin/cls-books-gallery-admin.php:249
+msgid "Update Book Series"
+msgstr "Update Serie Carte"
+
+#: admin/cls-books-gallery-admin.php:302
+msgid "Update Grade Level"
+msgstr "Update Nivel De Clasa"
+
+#: admin/cls-books-gallery-admin.php:277
+msgid "Update Reading Age"
+msgstr "Update Lectură Vârstă"
+
+#: admin/view/partial/book-information.php:314
+#: admin/view/partial/book-information.php:334
+#: admin/view/partial/book-information.php:354
+msgid "Upgrade to Professional"
+msgstr "Upgrade la Professional"
+
+#: admin/view/general-settings.php:54
+#: admin/view/partial/book-information.php:41
+#: admin/view/partial/book-information.php:77
+#: admin/view/partial/book-information.php:116
+#: admin/view/partial/book-information.php:136
+#: admin/view/partial/book-information.php:248
+#: admin/view/partial/gallery-content.php:322
+#: admin/view/partial/search-styles.php:33
+#: admin/view/partial/search-styles.php:54
+#: admin/view/partial/search-styles.php:75
+#: admin/view/partial/search-styles.php:96
+#: admin/view/partial/search-styles.php:123
+#: admin/view/partial/single-content.php:23 admin/view/wbg-api-import.php:151
+msgid "Upgrade to Professional!"
+msgstr "Upgrade la Professional!"
+
+#: admin/cls-books-gallery-admin.php:81 admin/cls-books-gallery-admin.php:82
+msgid "Usage & Tutorial"
+msgstr "Utilizare & Tutorial"
+
+#: admin/view/partial/book-information.php:279
+#: admin/view/partial/book-information.php:300
+msgid "Use 999 For 9.99"
+msgstr "Utilizarea 999 Pentru 9.99"
+
+#: admin/view/wbg-api-import.php:158
+msgid "Use comma between multiple ISBN/s"
+msgstr "Folosește virgula între mai multe ISBN/s"
+
+#: admin/cls-books-gallery-admin.php:150
+msgid "View Book"
+msgstr "Vezi De Carte"
+
+#: admin/cls-books-gallery-admin.php:147
+msgid "WBG Books"
+msgstr "GBM Cărți"
+
+#: admin/view/general-settings.php:86
+msgid "With enabled only logged-in users can download books."
+msgstr "Cu permis numai utilizatorilor autentificați pot descărca cărți."
+
+#: admin/view/partial/gallery-content.php:330
+msgid "WP Customer Reviews Plugin Integration Required For This Feature."
+msgstr ""
+"WP de Recenzii ale Clienților Integrarea Plugin Necesar Pentru Această "
+"Funcție."
+
+#: admin/view/partial/book-information.php:255
+msgid "Yes"
+msgstr "Da"
+
+#: core/gallery-content.php:172
+msgid "« "
+msgstr "« "
