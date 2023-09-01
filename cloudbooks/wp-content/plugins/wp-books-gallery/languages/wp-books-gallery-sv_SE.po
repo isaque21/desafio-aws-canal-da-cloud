@@ -1,0 +1,1255 @@
+# Translation of Plugins - WordPress Books Gallery - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - WordPress Books Gallery - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-06 22:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - WordPress Books Gallery - Development (trunk)\n"
+"Language-Team: Swedish\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-06 22:19+0000\n"
+"Last-Translator: Hossni Mubarak\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3"
+
+#: core/gallery-content.php:173
+msgid " »"
+msgstr " »"
+
+#: admin/view/partial/gallery-content.php:33
+msgid "1"
+msgstr "1"
+
+#: admin/view/partial/gallery-content.php:34
+msgid "2"
+msgstr "2"
+
+#: admin/view/partial/book-information.php:375
+msgid "Active"
+msgstr "Aktiv"
+
+#: admin/cls-books-gallery-admin.php:152
+msgid "Add New"
+msgstr "Lägg till ny"
+
+#: admin/cls-books-gallery-admin.php:328
+msgid "Add New Author"
+msgstr "Lägg Till Ny Författare."
+
+#: admin/cls-books-gallery-admin.php:151
+msgid "Add New Book"
+msgstr "Lägg till ny bok"
+
+#: admin/cls-books-gallery-admin.php:199
+msgid "Add New Book Category"
+msgstr "Lägg till ny bokkategori"
+
+#: admin/cls-books-gallery-admin.php:225
+msgid "Add New Book Format"
+msgstr "Lägga Till Nya Bok-Format"
+
+#: admin/cls-books-gallery-admin.php:250
+msgid "Add New Book Series"
+msgstr "Lägga Till Nya Boken I Serien"
+
+#: admin/cls-books-gallery-admin.php:303
+msgid "Add New Grade Level"
+msgstr "Lägg Till Ny Klass Nivå"
+
+#: admin/cls-books-gallery-admin.php:278
+msgid "Add New Reading Age"
+msgstr "Lägg Till Ny Läsning Ålder"
+
+#: admin/cls-books-gallery-admin.php:323
+#: admin/view/partial/search-content.php:185
+msgid "All Authors"
+msgstr "Alla författare"
+
+#: admin/cls-books-gallery-admin.php:194
+msgid "All Book Categories"
+msgstr "Alla bokkategorier"
+
+#: admin/cls-books-gallery-admin.php:220
+msgid "All Book Formats"
+msgstr "Alla Boka Formats"
+
+#: admin/cls-books-gallery-admin.php:245
+msgid "All Book Series"
+msgstr "Alla Bok-Serien"
+
+#: admin/cls-books-gallery-admin.php:149
+msgid "All Books"
+msgstr "Alla böcker"
+
+#: admin/view/partial/search-content.php:98
+msgid "All Categories"
+msgstr "Alla kategorier"
+
+#: admin/cls-books-gallery-admin.php:298
+msgid "All Grade Level"
+msgstr "Alla Klass Nivå"
+
+#: admin/view/partial/search-content.php:156
+msgid "All Languages"
+msgstr "Alla språk"
+
+#: admin/view/partial/search-content.php:214
+msgid "All Publishers"
+msgstr "Alla utgivare"
+
+#: admin/cls-books-gallery-admin.php:273
+msgid "All Reading Age"
+msgstr "Alla Behandlingen Ålder"
+
+#: admin/view/partial/search-content.php:127
+msgid "All Years"
+msgstr "Alla år"
+
+#: admin/cls-books-gallery-admin.php:71 admin/cls-books-gallery-admin.php:72
+msgid "API Import"
+msgstr "API Import"
+
+#: admin/view/partial/gallery-content.php:95
+#: admin/view/partial/search-content.php:89
+#: admin/view/partial/search-content.php:118
+#: admin/view/partial/search-content.php:147
+#: admin/view/partial/search-content.php:176
+#: admin/view/partial/search-content.php:205
+#: admin/view/partial/search-content.php:236
+#: admin/view/partial/search-content.php:265
+msgid "Ascending"
+msgstr "Stigande"
+
+#: admin/view/partial/book-information.php:130 front/view/single.php:337
+msgid "ASIN"
+msgstr "ASIN"
+
+#: admin/cls-books-gallery-admin.php:320 admin/cls-books-gallery-admin.php:321
+#: admin/cls-books-gallery-admin.php:330
+#: admin/view/partial/book-information.php:55
+#: admin/view/partial/gallery-content.php:82
+msgid "Author"
+msgstr "Författare"
+
+#: admin/view/partial/single-content.php:204
+#, fuzzy
+#| msgid "Author Label:"
+msgid "Author Label"
+msgstr "Författare etikett:"
+
+#: admin/view/partial/gallery-content.php:154
+msgid "Author Label Text"
+msgstr "Författare Label Text"
+
+#: front/view/single.php:522
+msgid "Back"
+msgstr "Tillbaka"
+
+#: admin/view/partial/gallery-styles.php:54
+#: admin/view/partial/search-styles.php:27
+#: admin/view/partial/search-styles.php:117
+#: admin/view/partial/search-styles.php:144
+#: admin/view/partial/search-styles.php:177
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: admin/cls-books-gallery-admin.php:146
+msgid "Book"
+msgstr "Bok"
+
+#: admin/cls-books-gallery-admin.php:191 admin/cls-books-gallery-admin.php:201
+msgid "Book Categories"
+msgstr "Bokkategorier"
+
+#: admin/cls-books-gallery-admin.php:192
+msgid "Book Category"
+msgstr "Boka Kategori"
+
+#: admin/cls-books-gallery-admin.php:364
+msgid "Book Cover Image"
+msgstr "Bokomslag Bild"
+
+#: admin/cls-books-gallery-admin.php:61 admin/cls-books-gallery-admin.php:62
+msgid "Book Detail Settings"
+msgstr "Inställningar för bokdetaljer"
+
+#: admin/cls-books-gallery-admin.php:375
+msgid "Book External Image Url"
+msgstr "Boka Externa Bild-Url"
+
+#: admin/cls-books-gallery-admin.php:218
+msgid "Book Format"
+msgstr "Boka Format"
+
+#: admin/cls-books-gallery-admin.php:217 admin/cls-books-gallery-admin.php:227
+msgid "Book Formats"
+msgstr "Boka Formats"
+
+#: admin/cls-books-gallery-admin.php:353
+#: admin/view/partial/single-content.php:37
+msgid "Book Information"
+msgstr "Bokinformation"
+
+#: admin/view/partial/gallery-styles.php:40
+msgid "Book Item:"
+msgstr "Boka Artikel:"
+
+#: admin/view/partial/search-content.php:50
+msgid "Book Name"
+msgstr "Boktitel"
+
+#: admin/cls-books-gallery-admin.php:242 admin/cls-books-gallery-admin.php:243
+#: admin/cls-books-gallery-admin.php:252
+msgid "Book Series"
+msgstr "Boka Serien"
+
+#: admin/cls-books-gallery-admin.php:145 front/view/gallery.php:200
+msgid "Books"
+msgstr "Böcker"
+
+#: admin/cls-books-gallery-admin.php:161
+msgid "books"
+msgstr "böcker"
+
+#: admin/view/partial/gallery-content.php:244
+msgid "Books Per Page"
+msgstr "Böcker Per Sida"
+
+#: admin/view/partial/gallery-styles.php:45
+#: admin/view/partial/search-styles.php:48
+#: admin/view/partial/search-styles.php:153
+#: admin/view/partial/search-styles.php:186
+msgid "Border Color"
+msgstr "Gränsen Färg"
+
+#: admin/view/partial/search-styles.php:69
+msgid "Border Radius"
+msgstr "Border-Radius"
+
+#: admin/view/partial/search-styles.php:90
+msgid "Border Width"
+msgstr "Gränsen Bredd"
+
+#: admin/view/partial/search-content.php:292
+#, fuzzy
+#| msgid "Button:"
+msgid "Button"
+msgstr "Knapp:"
+
+#: admin/view/partial/gallery-styles.php:68
+#, fuzzy
+#| msgid "Button Color:"
+msgid "Button Color"
+msgstr "Knappfärg:"
+
+#: admin/view/partial/gallery-styles.php:77
+#, fuzzy
+#| msgid "Button Font Color:"
+msgid "Button Font Color"
+msgstr "Knappens textfärg:"
+
+#: admin/view/partial/gallery-content.php:185
+#: admin/view/partial/gallery-content.php:213
+msgid "Button Text"
+msgstr "Knapptext"
+
+#: admin/view/partial/book-information.php:190
+msgid "Buy From Link"
+msgstr "Köp Från Länk"
+
+#: admin/view/partial/gallery-content.php:157
+msgid "By:"
+msgstr "Av:"
+
+#: admin/view/partial/gallery-content.php:141
+msgid "Category"
+msgstr "Kategori"
+
+#: admin/view/partial/single-content.php:219
+#, fuzzy
+#| msgid "Category Label:"
+msgid "Category Label"
+msgstr "Kategorietikett:"
+
+#: admin/view/partial/gallery-content.php:138
+msgid "Category Label Text"
+msgstr "Kategori Label Text"
+
+#: admin/view/partial/book-information.php:71
+msgid "Co-Publisher"
+msgstr "Co-Utgivare"
+
+#: admin/view/partial/single-content.php:252
+msgid "Co-Publisher Label"
+msgstr "Co-Utgivare Etikett"
+
+#: admin/view/single-settings.php:36
+msgid "Coming Soon"
+msgstr "Kommer Snart"
+
+#: admin/view/gallery-settings.php:22 admin/view/search-settings.php:22
+#: admin/view/single-settings.php:22
+msgid "Content"
+msgstr "Innehåll"
+
+#: admin/view/partial/book-information.php:218
+msgid "Cost Type"
+msgstr "Kostnaden Typ"
+
+#: admin/view/partial/book-information.php:158
+#: admin/view/partial/gallery-content.php:87
+msgid "Country"
+msgstr "Land"
+
+#: admin/view/partial/single-content.php:346
+#, fuzzy
+#| msgid "Country Label:"
+msgid "Country Label"
+msgstr "Landsetikett:"
+
+#: admin/view/partial/gallery-content.php:285
+msgid "Currency"
+msgstr "Valuta"
+
+#: admin/view/partial/gallery-content.php:83
+msgid "Date"
+msgstr "Datum"
+
+#: admin/view/partial/single-content.php:277
+#, fuzzy
+#| msgid "Date Format:"
+msgid "Date Format"
+msgstr "Datumformat:"
+
+#: admin/view/partial/search-content.php:95
+#: admin/view/partial/search-content.php:124
+#: admin/view/partial/search-content.php:153
+#: admin/view/partial/search-content.php:182
+#: admin/view/partial/search-content.php:211
+#: admin/view/partial/search-content.php:242
+#: admin/view/partial/search-content.php:271
+#, fuzzy
+#| msgid "Default Option :"
+msgid "Default Option"
+msgstr "Standardalternativ:"
+
+#: admin/view/partial/gallery-content.php:98
+#: admin/view/partial/search-content.php:92
+#: admin/view/partial/search-content.php:121
+#: admin/view/partial/search-content.php:150
+#: admin/view/partial/search-content.php:179
+#: admin/view/partial/search-content.php:208
+#: admin/view/partial/search-content.php:239
+#: admin/view/partial/search-content.php:268
+msgid "Descending"
+msgstr "Fallande"
+
+#: admin/view/partial/gallery-styles.php:118
+msgid "Description"
+msgstr "Beskrivning"
+
+#: admin/cls-books-gallery-admin.php:162
+msgid "Description For Books"
+msgstr "Beskrivning för böcker"
+
+#: admin/view/partial/single-content.php:458
+#, fuzzy
+#| msgid "Description Label:"
+msgid "Description Label"
+msgstr "Beskrivning etikett:"
+
+#: admin/view/partial/gallery-content.php:170
+msgid "Description Word Length"
+msgstr "Beskrivningens ordlängd"
+
+#: admin/view/partial/gallery-content.php:20
+msgid "Desktop"
+msgstr "Stationär dator"
+
+#: admin/view/single-settings.php:9
+#, fuzzy
+#| msgid "Book Details Settings"
+msgid "Details Settings"
+msgstr "Inställningar för bokdetaljer"
+
+#: admin/view/partial/book-information.php:174
+msgid "Dimension"
+msgstr "Dimension"
+
+#: admin/view/partial/single-content.php:376
+#, fuzzy
+#| msgid "Dimension Label:"
+msgid "Dimension Label"
+msgstr "Dimensionsetikett:"
+
+#: admin/view/partial/book-information.php:287
+msgid "Discount Price"
+msgstr "Rabatterat Pris"
+
+#: admin/view/partial/gallery-content.php:147
+#: admin/view/partial/search-content.php:166
+#: admin/view/partial/single-content.php:198
+msgid "Display Author"
+msgstr "Visa författare"
+
+#: admin/view/partial/search-content.php:226
+msgid "Display Book Format"
+msgstr "Visa Bok-Format"
+
+#: admin/view/partial/search-content.php:41
+msgid "Display Book Name"
+msgstr "Visa Boka Namn"
+
+#: admin/view/partial/gallery-content.php:194
+msgid "Display Buy Now Button"
+msgstr "Display-Knappen Köp Nu"
+
+#: admin/view/partial/gallery-content.php:131
+#: admin/view/partial/search-content.php:79
+#: admin/view/partial/single-content.php:213
+msgid "Display Category"
+msgstr "Visa kategori"
+
+#: admin/view/partial/single-content.php:246
+msgid "Display Co-Publisher"
+msgstr "Display Co-Utgivare"
+
+#: admin/view/partial/single-content.php:340
+#, fuzzy
+#| msgid "Display Country:"
+msgid "Display Country"
+msgstr "Visa land:"
+
+#: admin/view/partial/gallery-content.php:163
+#: admin/view/partial/single-content.php:452
+msgid "Display Description"
+msgstr "Visa beskrivning"
+
+#: admin/view/partial/single-content.php:370
+#, fuzzy
+#| msgid "Display Dimension:"
+msgid "Display Dimension"
+msgstr "Visa dimensioner:"
+
+#: admin/view/partial/gallery-content.php:178
+#, fuzzy
+#| msgid "Display Buynow/Download Button"
+msgid "Display Download Button"
+msgstr "Visa knappen köp nu/ladda ner?"
+
+#: admin/view/partial/single-content.php:472
+#, fuzzy
+#| msgid "Display Download / BuyNow Button:"
+msgid "Display Download/BuyNow Button"
+msgstr "Visa knapp ”Ladda ner/köp nu”:"
+
+#: admin/view/partial/single-content.php:419
+msgid "Display Edition"
+msgstr "Visa Edition"
+
+#: admin/view/partial/single-content.php:385
+#, fuzzy
+#| msgid "Display File Size:"
+msgid "Display File Size"
+msgstr "Visa filstorlek"
+
+#: admin/view/partial/single-content.php:42
+msgid "Display Format"
+msgstr "Display Format"
+
+#: admin/view/partial/single-content.php:159
+msgid "Display Grade Level"
+msgstr "Visa Klass Nivå"
+
+#: admin/view/partial/single-content.php:434
+msgid "Display Illustrator"
+msgstr "Visa Illustratör"
+
+#: admin/view/partial/search-content.php:60
+#: admin/view/partial/single-content.php:289
+#, fuzzy
+#| msgid "Display ISBN:"
+msgid "Display ISBN"
+msgstr "Visa ISBN:"
+
+#: admin/view/partial/single-content.php:307
+msgid "Display ISBN-13"
+msgstr "Visa ISBN-13"
+
+#: admin/view/partial/single-content.php:404
+msgid "Display Item Weight"
+msgstr "Visa Artikel Vikt"
+
+#: admin/view/partial/search-content.php:137
+#: admin/view/partial/single-content.php:355
+#, fuzzy
+#| msgid "Display Language:"
+msgid "Display Language"
+msgstr "Visa språk:"
+
+#: admin/view/partial/single-content.php:325
+#, fuzzy
+#| msgid "Display Pages:"
+msgid "Display Pages"
+msgstr "Visa sidor:"
+
+#: admin/view/partial/gallery-content.php:264
+msgid "Display Pagination"
+msgstr "Visa Paginering"
+
+#: admin/view/partial/single-content.php:264
+#, fuzzy
+#| msgid "Display Publish Date:"
+msgid "Display Publish Date"
+msgstr "Visa publiceringsdatum:"
+
+#: admin/view/partial/search-content.php:195
+#: admin/view/partial/single-content.php:228
+#, fuzzy
+#| msgid "Display Publisher:"
+msgid "Display Publisher"
+msgstr "Visa utgivare:"
+
+#: admin/view/partial/gallery-content.php:316
+msgid "Display Rating"
+msgstr "Visa Betyg"
+
+#: admin/view/partial/single-content.php:120
+msgid "Display Reading Age"
+msgstr "Visa Läsning Ålder"
+
+#: admin/view/partial/search-content.php:21
+#, fuzzy
+#| msgid "Display Search Panel?"
+msgid "Display Search Panel"
+msgstr "Visa sökpanelen?"
+
+#: admin/view/partial/search-content.php:255
+#: admin/view/partial/single-content.php:81
+msgid "Display Series"
+msgstr "Visa Serien"
+
+#: admin/view/partial/single-content.php:480
+msgid "Display Sidebar"
+msgstr "Visa Sidofältet"
+
+#: admin/view/partial/single-content.php:17
+msgid "Display Sub-Title"
+msgstr "Visa Sub-Title"
+
+#: admin/view/partial/gallery-content.php:234
+msgid "Display Total Books"
+msgstr "Visa Totala Böcker"
+
+#: admin/view/partial/search-content.php:108
+msgid "Display Year"
+msgstr "Visa År"
+
+#: admin/view/partial/gallery-content.php:188
+msgid "Download"
+msgstr "Ladda ner"
+
+#: admin/view/partial/gallery-styles.php:63
+#, fuzzy
+#| msgid "Download Button:"
+msgid "Download Button"
+msgstr "Nedladdningsknapp:"
+
+#: admin/view/partial/book-information.php:182
+msgid "Download Link"
+msgstr "Ladda Ner Länk"
+
+#: admin/view/general-settings.php:72
+msgid "Download When Logged-in"
+msgstr "Ladda ner När du är Inloggad-i"
+
+#: admin/cls-books-gallery-admin.php:326
+msgid "Edit Author"
+msgstr "Redigera Författare"
+
+#: admin/cls-books-gallery-admin.php:153
+msgid "Edit Book"
+msgstr "Redigera bok"
+
+#: admin/cls-books-gallery-admin.php:197
+msgid "Edit Book Category"
+msgstr "Redigera bokkategori"
+
+#: admin/cls-books-gallery-admin.php:223
+msgid "Edit Book Format"
+msgstr "Redigera Bok-Format"
+
+#: admin/cls-books-gallery-admin.php:248
+msgid "Edit Book Series"
+msgstr "Redigera Boken I Serien"
+
+#: admin/cls-books-gallery-admin.php:301
+msgid "Edit Grade Level"
+msgstr "Redigera Klass Nivå"
+
+#: admin/cls-books-gallery-admin.php:276
+msgid "Edit Reading Age"
+msgstr "Redigera Läsning Ålder"
+
+#: admin/view/partial/book-information.php:328
+msgid "Edition"
+msgstr "Edition"
+
+#: admin/view/partial/single-content.php:425
+msgid "Edition Label"
+msgstr "Edition Etikett"
+
+#: admin/view/partial/gallery-content.php:104
+msgid "Enable Book Details Page"
+msgstr "Aktivera Boka Detaljer Sidan"
+
+#: admin/view/partial/book-information.php:210
+msgid "File Size"
+msgstr "Filstorlek"
+
+#: admin/view/partial/single-content.php:391
+#, fuzzy
+#| msgid "File Size Label:"
+msgid "File Size Label"
+msgstr "Filstorleksetikett:"
+
+#: admin/view/partial/gallery-content.php:61
+msgid "Flip"
+msgstr "Vänd"
+
+#: admin/view/partial/gallery-styles.php:91
+#: admin/view/partial/gallery-styles.php:123
+#: admin/view/partial/search-styles.php:162
+#: admin/view/partial/search-styles.php:195
+#, fuzzy
+#| msgid "Font Color:"
+msgid "Font Color"
+msgstr "Textfärg:"
+
+#: admin/view/partial/gallery-styles.php:109
+#: admin/view/partial/gallery-styles.php:132
+#, fuzzy
+#| msgid "Font Size:"
+msgid "Font Size"
+msgstr "Textstorlek:"
+
+#: admin/view/partial/gallery-content.php:68
+msgid "For more option please upgrade to pro."
+msgstr "För fler alternativ du uppgradera till pro."
+
+#: admin/view/partial/single-content.php:60
+msgid "Format Label"
+msgstr "Formatera Etiketten"
+
+#: admin/view/partial/book-information.php:231
+msgid "Free"
+msgstr "Gratis"
+
+#: admin/view/partial/gallery-content.php:47
+#: admin/view/partial/single-content.php:281
+msgid "Full"
+msgstr "Helt"
+
+#: admin/view/partial/gallery-content.php:17
+msgid "Gallary Columns"
+msgstr "Gallerikolumner"
+
+#: admin/view/general-settings.php:39
+msgid "Gallery Page Slug"
+msgstr "Galleri Sidan Slug"
+
+#: admin/cls-books-gallery-admin.php:41 admin/cls-books-gallery-admin.php:42
+#: admin/view/gallery-settings.php:9
+msgid "Gallery Settings"
+msgstr "Inställningar för galleri"
+
+#: admin/cls-books-gallery-admin.php:31 admin/cls-books-gallery-admin.php:32
+#: admin/view/general-settings.php:22
+msgid "General Settings"
+msgstr "Allmänna Inställningar"
+
+#: admin/cls-books-gallery-admin.php:295 admin/cls-books-gallery-admin.php:296
+#: admin/cls-books-gallery-admin.php:305
+msgid "Grade Level"
+msgstr "Klass Nivå"
+
+#: admin/view/partial/single-content.php:177
+msgid "Grade Level Label"
+msgstr "Klass Nivå Etikett"
+
+#: lib/freemius-integrator.php:61
+#, php-format
+msgid "Hey %1$s"
+msgstr "Hej %1$s"
+
+#: admin/view/partial/gallery-styles.php:100
+#, fuzzy
+#| msgid "Hover Color:"
+msgid "Hover Color"
+msgstr "Hovringsfärg:"
+
+#: admin/view/partial/book-information.php:348
+msgid "Illustrator"
+msgstr "Illustratör"
+
+#: admin/view/partial/single-content.php:440
+msgid "Illustrator Label"
+msgstr "Illustratör Etikett"
+
+#: admin/view/partial/gallery-content.php:52
+msgid "Image Animation"
+msgstr "Bild-Animering"
+
+#: admin/view/partial/gallery-content.php:40
+msgid "Image Width"
+msgstr "Bildens Bredd"
+
+#: admin/view/wbg-api-import.php:166
+msgid "Import Books"
+msgstr "Importera Böcker"
+
+#: admin/view/wbg-api-import.php:128
+msgid "Import Books From API"
+msgstr "Importera Böcker Från API"
+
+#: admin/view/wbg-api-import.php:119
+msgid "Import Books Successful"
+msgstr "Importera Böcker Framgångsrik"
+
+#: admin/view/partial/book-information.php:378
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: admin/view/partial/search-styles.php:112
+msgid "Input Fields"
+msgstr "Input-Fält"
+
+#: admin/view/partial/book-information.php:242
+msgid "Is Featured"
+msgstr "Är Med"
+
+#: admin/view/partial/book-information.php:102
+#: admin/view/partial/search-content.php:69
+msgid "ISBN"
+msgstr "ISBN"
+
+#: admin/view/partial/single-content.php:295
+#, fuzzy
+#| msgid "ISBN Label:"
+msgid "ISBN Label"
+msgstr "ISBN etikett:"
+
+#: admin/view/wbg-api-import.php:157
+msgid "ISBN-10"
+msgstr "ISBN-10"
+
+#: admin/view/partial/book-information.php:110
+msgid "ISBN-13"
+msgstr "ISBN-13"
+
+#: admin/view/partial/single-content.php:313
+msgid "ISBN-13 Label"
+msgstr "ISBN-13 Etikett"
+
+#: admin/view/partial/book-information.php:308
+msgid "Item Weight"
+msgstr "Artikel Vikt"
+
+#: admin/view/partial/single-content.php:410
+msgid "Item Weight Label"
+msgstr "Artikel Vikt Etikett"
+
+#: admin/view/partial/book-information.php:166
+#: admin/view/partial/gallery-content.php:86
+msgid "Language"
+msgstr "Språk"
+
+#: admin/view/partial/single-content.php:361
+#, fuzzy
+#| msgid "Language Label:"
+msgid "Language Label"
+msgstr "Språketikett:"
+
+#: admin/view/partial/gallery-content.php:31
+msgid "Mobile"
+msgstr "Mobil"
+
+#: admin/view/general-settings.php:64
+msgid "Multiple"
+msgstr "Flera"
+
+#: admin/view/partial/gallery-content.php:80
+msgid "Name"
+msgstr "Namn"
+
+#: admin/cls-books-gallery-admin.php:329
+msgid "New Author"
+msgstr "Ny Författare."
+
+#: admin/cls-books-gallery-admin.php:200
+msgid "New Book Category Name"
+msgstr "Ny bok kategorinamn"
+
+#: admin/cls-books-gallery-admin.php:226
+msgid "New Book Formate"
+msgstr "Ny Bok Formate"
+
+#: admin/cls-books-gallery-admin.php:251
+msgid "New Book Series"
+msgstr "Ny Bok-Serien"
+
+#: admin/cls-books-gallery-admin.php:304
+msgid "New Grade Level"
+msgstr "Ny Klass Nivå"
+
+#: admin/cls-books-gallery-admin.php:279
+msgid "New Reading Age"
+msgstr "Ny Läsning Ålder"
+
+#: admin/view/partial/book-information.php:258
+msgid "No"
+msgstr "Inga"
+
+#: front/view/featured-view.php:109
+msgid "No Books Available!"
+msgstr "Inga Böcker Som Finns!"
+
+#: front/view/gallery.php:424
+msgid "No books found."
+msgstr "Inga böcker hittades."
+
+#: front/view/featured-content.php:20 front/view/featured-content.php:27
+#: front/view/featured-content.php:30 front/view/gallery.php:222
+#: front/view/gallery.php:229 front/view/gallery.php:232
+#: front/view/gallery.php:243 front/view/gallery.php:250
+#: front/view/gallery.php:254 front/view/single.php:103 front/view/slide.php:20
+#: front/view/slide.php:27 front/view/slide.php:30
+msgid "No Image Available"
+msgstr "Ingen Bild Tillgänglig"
+
+#: admin/view/partial/gallery-content.php:56
+msgid "None"
+msgstr "Ingen"
+
+#: admin/cls-books-gallery-admin.php:156
+msgid "Not Found"
+msgstr "Hittades inte"
+
+#: admin/cls-books-gallery-admin.php:157
+msgid "Not found in Trash"
+msgstr "Finns inte i papperskorgen"
+
+#: admin/view/partial/single-content.php:284
+msgid "Only Year"
+msgstr "Endast år"
+
+#: admin/view/partial/gallery-content.php:114
+msgid "Open Book Details in New Tab"
+msgstr "Öppna bokdetaljer i ny flik"
+
+#: admin/view/partial/gallery-content.php:91
+#: admin/view/partial/search-content.php:85
+#: admin/view/partial/search-content.php:114
+#: admin/view/partial/search-content.php:143
+#: admin/view/partial/search-content.php:172
+#: admin/view/partial/search-content.php:201
+#: admin/view/partial/search-content.php:232
+#: admin/view/partial/search-content.php:261
+msgid "Order By"
+msgstr "Sortera efter"
+
+#: admin/view/partial/book-information.php:150
+msgid "Pages"
+msgstr "Sidor"
+
+#: admin/view/partial/single-content.php:331
+#, fuzzy
+#| msgid "Pages Label:"
+msgid "Pages Label"
+msgstr "Sidor etikett:"
+
+#: admin/cls-books-gallery-admin.php:324
+msgid "Parent Author"
+msgstr "Förälder Författare"
+
+#: admin/cls-books-gallery-admin.php:325
+msgid "Parent Author:"
+msgstr "Förälder Författare:"
+
+#: admin/cls-books-gallery-admin.php:148
+msgid "Parent Book"
+msgstr "Överordnad bok"
+
+#: admin/cls-books-gallery-admin.php:195
+msgid "Parent Book Category"
+msgstr "Överordnad bokkategori"
+
+#: admin/cls-books-gallery-admin.php:196
+msgid "Parent Book Category:"
+msgstr "Överordnad bokkategori:"
+
+#: admin/cls-books-gallery-admin.php:221
+msgid "Parent Book Format"
+msgstr "Förälder Bok-Format"
+
+#: admin/cls-books-gallery-admin.php:222
+msgid "Parent Book Format:"
+msgstr "Förälder Bok-Format:"
+
+#: admin/cls-books-gallery-admin.php:246
+msgid "Parent Book Series"
+msgstr "Förälder Boken I Serien"
+
+#: admin/cls-books-gallery-admin.php:247
+msgid "Parent Book Series:"
+msgstr "Förälder Boken I Serien Är:"
+
+#: admin/cls-books-gallery-admin.php:299
+msgid "Parent Grade Level"
+msgstr "Förälder Klass Nivå"
+
+#: admin/cls-books-gallery-admin.php:300
+msgid "Parent Grade Level:"
+msgstr "Förälder Klass Nivå:"
+
+#: admin/cls-books-gallery-admin.php:274
+msgid "Parent Reading Age"
+msgstr "Föräldrar Läser Ålder"
+
+#: admin/cls-books-gallery-admin.php:275
+msgid "Parent Reading Age:"
+msgstr "Föräldrar Läser Ålder:"
+
+#: admin/view/partial/search-content.php:47
+#: admin/view/partial/search-content.php:66
+#, fuzzy
+#| msgid "Placeholder Text :"
+msgid "Placeholder Text"
+msgstr "Platshållartext:"
+
+#: lib/freemius-integrator.php:62
+#, php-format
+msgid ""
+"Please help us improve %2$s! If you opt-in, some data about your usage of "
+"%2$s will be sent to %5$s. If you skip this, that's okay! %2$s will still "
+"work just fine."
+msgstr ""
+"Vänligen hjälp oss att förbättra %2$s! Om du opt-in, en del data om din "
+"användning av %2$s kommer att skickas till %5$s. Om du hoppar över det här, "
+"det är okej! %2$s kommer fortfarande att fungera alldeles utmärkt."
+
+#: admin/view/partial/book-information.php:196
+#: admin/view/partial/book-information.php:224
+#: admin/view/partial/book-information.php:272
+#: admin/view/partial/book-information.php:293
+#: admin/view/partial/gallery-content.php:200
+#: admin/view/partial/gallery-content.php:219
+#: admin/view/partial/gallery-content.php:250
+#: admin/view/partial/gallery-content.php:270
+#: admin/view/partial/gallery-content.php:291
+#: admin/view/partial/single-content.php:48
+#: admin/view/partial/single-content.php:66
+#: admin/view/partial/single-content.php:87
+#: admin/view/partial/single-content.php:105
+#: admin/view/partial/single-content.php:126
+#: admin/view/partial/single-content.php:144
+#: admin/view/partial/single-content.php:165
+#: admin/view/partial/single-content.php:183
+msgid "Please Upgrade Now!"
+msgstr "Vänligen Uppgradera Nu!"
+
+#: admin/view/general-settings.php:78
+msgid "Please Upgrade to Professional!"
+msgstr "Du Uppgradera till Professional!"
+
+#: admin/view/general-settings.php:48
+msgid "Prefered Author"
+msgstr "Favorit Författare"
+
+#: admin/view/partial/book-information.php:234
+msgid "Premium"
+msgstr "Premium"
+
+#: admin/view/wbg-api-import.php:145
+msgid "Provide Your ISBN-10"
+msgstr "Ge Din ISBN-10"
+
+#: admin/view/partial/single-content.php:270
+#, fuzzy
+#| msgid "Publish Date Label:"
+msgid "Publish Date Label"
+msgstr "Publiceringsdatum etikett:"
+
+#: admin/view/partial/book-information.php:94
+#: admin/view/partial/gallery-content.php:85
+msgid "Published On"
+msgstr "Publicerad"
+
+#: admin/view/partial/book-information.php:63
+#: admin/view/partial/gallery-content.php:84
+msgid "Publisher"
+msgstr "Utgivare"
+
+#: admin/view/partial/single-content.php:234
+#, fuzzy
+#| msgid "Publisher Label:"
+msgid "Publisher Label"
+msgstr "Utgivaretikett:"
+
+#: admin/cls-books-gallery-admin.php:270 admin/cls-books-gallery-admin.php:271
+#: admin/cls-books-gallery-admin.php:280
+msgid "Reading Age"
+msgstr "Behandlingen Ålder"
+
+#: admin/view/partial/single-content.php:138
+msgid "Reading Age Label"
+msgstr "Behandlingen Ålder Etikett"
+
+#: admin/view/partial/book-information.php:266
+msgid "Regular Price"
+msgstr "Ordinarie Pris"
+
+#: admin/cls-books-gallery-admin.php:568
+msgid "Remove Book Cover Here"
+msgstr "Ta Bort Bokomslaget Här"
+
+#: admin/view/partial/search-styles.php:172
+msgid "Reset Button"
+msgstr "Reset-Knapp"
+
+#: admin/view/partial/gallery-content.php:57
+msgid "Rotate 360"
+msgstr "Rotera 360"
+
+#: admin/view/general-settings.php:94
+#: admin/view/partial/gallery-content.php:349
+#: admin/view/partial/gallery-styles.php:144
+#: admin/view/partial/search-content.php:306
+#: admin/view/partial/search-styles.php:203
+#: admin/view/partial/single-content.php:488
+msgid "Save Settings"
+msgstr "Spara inställningar"
+
+#: admin/cls-books-gallery-admin.php:322
+#, fuzzy
+#| msgid "Search By Author?"
+msgid "Search Author"
+msgstr "Sök efter författare?"
+
+#: admin/cls-books-gallery-admin.php:155
+msgid "Search Book"
+msgstr "Sök bok"
+
+#: admin/cls-books-gallery-admin.php:193
+msgid "Search Book Categories"
+msgstr "Sök bokkategori"
+
+#: admin/cls-books-gallery-admin.php:219
+msgid "Search Book Formats"
+msgstr "Sök Bok Formats"
+
+#: admin/cls-books-gallery-admin.php:244
+msgid "Search Book Series"
+msgstr "Sök Bok-Serien"
+
+#: admin/view/partial/search-content.php:300
+msgid "Search Books"
+msgstr "Sök böcker"
+
+#: admin/view/partial/search-styles.php:139
+msgid "Search Button"
+msgstr "Sök-Knappen"
+
+#: admin/view/partial/search-content.php:297
+#, fuzzy
+#| msgid "Search Button Text:"
+msgid "Search Button Text"
+msgstr "Sökknappstext:"
+
+#: admin/cls-books-gallery-admin.php:297
+msgid "Search Grade Level"
+msgstr "Sök Klass Nivå"
+
+#: admin/view/partial/search-content.php:29
+msgid "Search Items"
+msgstr "Sök Objekt"
+
+#: admin/view/partial/search-styles.php:22
+msgid "Search Panel"
+msgstr "Sök Panel"
+
+#: admin/cls-books-gallery-admin.php:51 admin/cls-books-gallery-admin.php:52
+#: admin/view/search-settings.php:9
+msgid "Search Panel Settings"
+msgstr "Inställningar för sökpanelen"
+
+#: admin/cls-books-gallery-admin.php:272
+msgid "Search Reading Age"
+msgstr "Sök Läsning Ålder"
+
+#: admin/view/partial/gallery-content.php:79
+msgid "Select One"
+msgstr "Välj En"
+
+#: freemius/templates/plugin-info/description.php:30
+msgid "selling_point_"
+msgstr "selling_point_"
+
+#: admin/view/partial/single-content.php:99
+msgid "Series Label"
+msgstr "Serien Etikett"
+
+#: admin/cls-books-gallery-admin.php:567
+msgid "Set Book Cover Here"
+msgstr "Ange Bokomslaget Här"
+
+#: admin/view/partial/gallery-content.php:341
+msgid "Shortcode:"
+msgstr "Kortkod:"
+
+#: front/view/gallery.php:200
+msgid "Showing"
+msgstr "Visa"
+
+#: admin/view/general-settings.php:61
+msgid "Single"
+msgstr "Enda"
+
+#: admin/view/partial/gallery-content.php:81
+msgid "Slug/Url"
+msgstr "Slug/Url"
+
+#: admin/view/partial/gallery-content.php:44
+msgid "Small"
+msgstr "Små"
+
+#: admin/view/partial/gallery-content.php:75
+msgid "Sorting By"
+msgstr "Sortering efter"
+
+#: admin/view/partial/book-information.php:371
+#, fuzzy
+#| msgid "Status:"
+msgid "Status"
+msgstr "Status:"
+
+#: admin/view/gallery-settings.php:25 admin/view/search-settings.php:25
+#: admin/view/single-settings.php:25
+msgid "Styles"
+msgstr "Stilar"
+
+#: admin/view/partial/book-information.php:35
+msgid "Sub Title"
+msgstr "Sub Titel"
+
+#: front/view/single.php:449
+msgid "Tags"
+msgstr "Taggar"
+
+#: admin/view/general-settings.php:43
+msgid ""
+"This is your Gallery Page URL slug. Please do not use books as gallery page."
+msgstr ""
+"Detta är din Galleri Sida URL slug. Använd inte böcker som galleri sida."
+
+#: admin/view/partial/gallery-styles.php:86
+#, fuzzy
+#| msgid "Title:"
+msgid "Title"
+msgstr "Rubrik:"
+
+#: admin/view/partial/gallery-content.php:123
+msgid "Title Word Length"
+msgstr "Rubrikens ordlängd"
+
+#: admin/cls-books-gallery-admin.php:327
+msgid "Update Author"
+msgstr "Uppdatering Författaren"
+
+#: admin/cls-books-gallery-admin.php:154
+msgid "Update Book"
+msgstr "Uppdatera boken"
+
+#: admin/cls-books-gallery-admin.php:198
+msgid "Update Book Category"
+msgstr "Uppdatera bokkategorin"
+
+#: admin/cls-books-gallery-admin.php:224
+msgid "Update Book Format"
+msgstr "Uppdatering Bok-Format"
+
+#: admin/cls-books-gallery-admin.php:249
+msgid "Update Book Series"
+msgstr "Uppdatera Boken I Serien"
+
+#: admin/cls-books-gallery-admin.php:302
+msgid "Update Grade Level"
+msgstr "Uppdatering Klass Nivå"
+
+#: admin/cls-books-gallery-admin.php:277
+msgid "Update Reading Age"
+msgstr "Uppdatering Läsning Ålder"
+
+#: admin/view/partial/book-information.php:314
+#: admin/view/partial/book-information.php:334
+#: admin/view/partial/book-information.php:354
+msgid "Upgrade to Professional"
+msgstr "Uppgradera till Professional"
+
+#: admin/view/general-settings.php:54
+#: admin/view/partial/book-information.php:41
+#: admin/view/partial/book-information.php:77
+#: admin/view/partial/book-information.php:116
+#: admin/view/partial/book-information.php:136
+#: admin/view/partial/book-information.php:248
+#: admin/view/partial/gallery-content.php:322
+#: admin/view/partial/search-styles.php:33
+#: admin/view/partial/search-styles.php:54
+#: admin/view/partial/search-styles.php:75
+#: admin/view/partial/search-styles.php:96
+#: admin/view/partial/search-styles.php:123
+#: admin/view/partial/single-content.php:23 admin/view/wbg-api-import.php:151
+msgid "Upgrade to Professional!"
+msgstr "Uppgradera till Professional!"
+
+#: admin/cls-books-gallery-admin.php:81 admin/cls-books-gallery-admin.php:82
+msgid "Usage & Tutorial"
+msgstr "Användning & Handledning"
+
+#: admin/view/partial/book-information.php:279
+#: admin/view/partial/book-information.php:300
+msgid "Use 999 For 9.99"
+msgstr "Använd 999 För 9.99"
+
+#: admin/view/wbg-api-import.php:158
+msgid "Use comma between multiple ISBN/s"
+msgstr "Använd kommatecken mellan flera ISBN/s"
+
+#: admin/cls-books-gallery-admin.php:150
+msgid "View Book"
+msgstr "Visa bok"
+
+#: admin/cls-books-gallery-admin.php:147
+msgid "WBG Books"
+msgstr "WBG Books"
+
+#: admin/view/general-settings.php:86
+msgid "With enabled only logged-in users can download books."
+msgstr "Med aktiverad endast inloggade användare kan ladda ner böcker."
+
+#: admin/view/partial/gallery-content.php:330
+msgid "WP Customer Reviews Plugin Integration Required For This Feature."
+msgstr ""
+"WP Kund Recensioner Plugin för Integration som Krävs För den Här Funktionen."
+
+#: admin/view/partial/book-information.php:255
+msgid "Yes"
+msgstr "Ja"
+
+#: core/gallery-content.php:172
+msgid "« "
+msgstr "«"

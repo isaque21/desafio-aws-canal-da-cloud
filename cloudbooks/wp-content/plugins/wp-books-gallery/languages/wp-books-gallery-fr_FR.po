@@ -1,0 +1,1193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Books Gallery\n"
+"POT-Creation-Date: 2021-12-27 04:22+0600\n"
+"PO-Revision-Date: 2022-04-06 22:15+0000\n"
+"Last-Translator: Hossni Mubarak\n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;esc_html_e;esc_html;esc_html_\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: wp-books-gallery.php\n"
+"X-Poedit-SearchPath-2: admin\n"
+"X-Poedit-SearchPath-3: admin/cls-books-gallery-admin.php\n"
+"X-Poedit-SearchPath-4: inc/cls-books-gallery-master.php\n"
+"X-Poedit-SearchPath-5: admin/view/gallery-settings.php\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.5.5; wp-5.8.2"
+
+#: core/gallery-content.php:173
+msgid " »"
+msgstr " »"
+
+#: admin/view/partial/gallery-content.php:33
+msgid "1"
+msgstr "1"
+
+#: admin/view/partial/gallery-content.php:34
+msgid "2"
+msgstr "2"
+
+#: admin/view/partial/book-information.php:375
+msgid "Active"
+msgstr "Active"
+
+#: admin/cls-books-gallery-admin.php:152
+msgid "Add New"
+msgstr "Ajouter De Nouveaux"
+
+#: admin/cls-books-gallery-admin.php:328
+msgid "Add New Author"
+msgstr "Ajouter Un Nouvel Auteur"
+
+#: admin/cls-books-gallery-admin.php:151
+msgid "Add New Book"
+msgstr "Ajouter Un Nouveau Livre"
+
+#: admin/cls-books-gallery-admin.php:199
+msgid "Add New Book Category"
+msgstr "Ajouter Un Nouveau Livre De La Catégorie"
+
+#: admin/cls-books-gallery-admin.php:225
+msgid "Add New Book Format"
+msgstr "Ajouter Un Nouveau Format De Livre"
+
+#: admin/cls-books-gallery-admin.php:250
+msgid "Add New Book Series"
+msgstr "Ajouter Un Nouveau Livre De La Série"
+
+#: admin/cls-books-gallery-admin.php:303
+msgid "Add New Grade Level"
+msgstr "Ajouter Un Nouveau Niveau De Qualité"
+
+#: admin/cls-books-gallery-admin.php:278
+msgid "Add New Reading Age"
+msgstr "Ajouter Un Nouveau La Lecture D'Âge"
+
+#: admin/cls-books-gallery-admin.php:323
+#: admin/view/partial/search-content.php:185
+msgid "All Authors"
+msgstr "Tous Les Auteurs"
+
+#: admin/cls-books-gallery-admin.php:194
+msgid "All Book Categories"
+msgstr "Toutes Les Catégories Livre"
+
+#: admin/cls-books-gallery-admin.php:220
+msgid "All Book Formats"
+msgstr "Tous Les Standards (Livre"
+
+#: admin/cls-books-gallery-admin.php:245
+msgid "All Book Series"
+msgstr "Tous Les Livres De La Série"
+
+#: admin/cls-books-gallery-admin.php:149
+msgid "All Books"
+msgstr "Tous Les Livres"
+
+#: admin/view/partial/search-content.php:98
+msgid "All Categories"
+msgstr "Toutes Les Catégories"
+
+#: admin/cls-books-gallery-admin.php:298
+msgid "All Grade Level"
+msgstr "Tous Les Niveau"
+
+#: admin/view/partial/search-content.php:156
+msgid "All Languages"
+msgstr "Toutes Les Langues"
+
+#: admin/view/partial/search-content.php:214
+msgid "All Publishers"
+msgstr "Tous Les Éditeurs"
+
+#: admin/cls-books-gallery-admin.php:273
+msgid "All Reading Age"
+msgstr "Tous La Lecture De L'Âge"
+
+#: admin/view/partial/search-content.php:127
+msgid "All Years"
+msgstr "Tous Les Ans"
+
+#: admin/cls-books-gallery-admin.php:71 admin/cls-books-gallery-admin.php:72
+msgid "API Import"
+msgstr "API d'Importation"
+
+#: admin/view/partial/gallery-content.php:95
+#: admin/view/partial/search-content.php:89
+#: admin/view/partial/search-content.php:118
+#: admin/view/partial/search-content.php:147
+#: admin/view/partial/search-content.php:176
+#: admin/view/partial/search-content.php:205
+#: admin/view/partial/search-content.php:236
+#: admin/view/partial/search-content.php:265
+msgid "Ascending"
+msgstr "Ascendant"
+
+#: admin/view/partial/book-information.php:130 front/view/single.php:337
+msgid "ASIN"
+msgstr "ASIN"
+
+#: admin/cls-books-gallery-admin.php:320 admin/cls-books-gallery-admin.php:321
+#: admin/cls-books-gallery-admin.php:330
+#: admin/view/partial/book-information.php:55
+#: admin/view/partial/gallery-content.php:82
+msgid "Author"
+msgstr "Auteur"
+
+#: admin/view/partial/single-content.php:204
+msgid "Author Label"
+msgstr "Auteur De L'Étiquette"
+
+#: admin/view/partial/gallery-content.php:154
+msgid "Author Label Text"
+msgstr "Auteur Du Texte De L'Étiquette"
+
+#: front/view/single.php:522
+msgid "Back"
+msgstr "De retour"
+
+#: admin/view/partial/gallery-styles.php:54
+#: admin/view/partial/search-styles.php:27
+#: admin/view/partial/search-styles.php:117
+#: admin/view/partial/search-styles.php:144
+#: admin/view/partial/search-styles.php:177
+msgid "Background Color"
+msgstr "Couleur D'Arrière-Plan"
+
+#: admin/cls-books-gallery-admin.php:146
+msgid "Book"
+msgstr "Livre"
+
+#: admin/cls-books-gallery-admin.php:191 admin/cls-books-gallery-admin.php:201
+msgid "Book Categories"
+msgstr "Livre Les Catégories"
+
+#: admin/cls-books-gallery-admin.php:192
+msgid "Book Category"
+msgstr "Catégorie Livre"
+
+#: admin/cls-books-gallery-admin.php:364
+msgid "Book Cover Image"
+msgstr "Couverture Du Livre De L'Image"
+
+#: admin/cls-books-gallery-admin.php:61 admin/cls-books-gallery-admin.php:62
+msgid "Book Detail Settings"
+msgstr "Livre Paramètres De Détails"
+
+#: admin/cls-books-gallery-admin.php:375
+msgid "Book External Image Url"
+msgstr "Livre Externes Url De L'Image"
+
+#: admin/cls-books-gallery-admin.php:218
+msgid "Book Format"
+msgstr "Format De Livre"
+
+#: admin/cls-books-gallery-admin.php:217 admin/cls-books-gallery-admin.php:227
+msgid "Book Formats"
+msgstr "Livre Standards ("
+
+#: admin/cls-books-gallery-admin.php:353
+#: admin/view/partial/single-content.php:37
+msgid "Book Information"
+msgstr "Informations Sur Le Livre"
+
+#: admin/view/partial/gallery-styles.php:40
+msgid "Book Item:"
+msgstr "Livre:"
+
+#: admin/view/partial/search-content.php:50
+msgid "Book Name"
+msgstr "Nom Du Livre"
+
+#: admin/cls-books-gallery-admin.php:242 admin/cls-books-gallery-admin.php:243
+#: admin/cls-books-gallery-admin.php:252
+msgid "Book Series"
+msgstr "Livre De La Série"
+
+#: admin/cls-books-gallery-admin.php:145 front/view/gallery.php:200
+msgid "Books"
+msgstr "Livres"
+
+#: admin/cls-books-gallery-admin.php:161
+msgid "books"
+msgstr "livres"
+
+#: admin/view/partial/gallery-content.php:244
+msgid "Books Per Page"
+msgstr "Livres Par Page"
+
+#: admin/view/partial/gallery-styles.php:45
+#: admin/view/partial/search-styles.php:48
+#: admin/view/partial/search-styles.php:153
+#: admin/view/partial/search-styles.php:186
+msgid "Border Color"
+msgstr "Couleur De La Bordure"
+
+#: admin/view/partial/search-styles.php:69
+msgid "Border Radius"
+msgstr "Rayon Des Frontières"
+
+#: admin/view/partial/search-styles.php:90
+msgid "Border Width"
+msgstr "La Largeur De La Bordure"
+
+#: admin/view/partial/search-content.php:292
+msgid "Button"
+msgstr "Bouton"
+
+#: admin/view/partial/gallery-styles.php:68
+msgid "Button Color"
+msgstr "Bouton De Couleur"
+
+#: admin/view/partial/gallery-styles.php:77
+msgid "Button Font Color"
+msgstr "Bouton Couleur De Police"
+
+#: admin/view/partial/gallery-content.php:185
+#: admin/view/partial/gallery-content.php:213
+msgid "Button Text"
+msgstr "Texte Du Bouton"
+
+#: admin/view/partial/book-information.php:190
+msgid "Buy From Link"
+msgstr "Acheter De Lien"
+
+#: admin/view/partial/gallery-content.php:157
+msgid "By:"
+msgstr "Par:"
+
+#: admin/view/partial/gallery-content.php:141
+msgid "Category"
+msgstr "Catégorie"
+
+#: admin/view/partial/single-content.php:219
+msgid "Category Label"
+msgstr "Étiquette De Catégorie"
+
+#: admin/view/partial/gallery-content.php:138
+msgid "Category Label Text"
+msgstr "Catégorie Texte De L'Étiquette"
+
+#: admin/view/partial/book-information.php:71
+msgid "Co-Publisher"
+msgstr "Co-Éditeur"
+
+#: admin/view/partial/single-content.php:252
+msgid "Co-Publisher Label"
+msgstr "Co-Éditeur De L'Étiquette"
+
+#: admin/view/single-settings.php:36
+msgid "Coming Soon"
+msgstr "Bientôt"
+
+#: admin/view/gallery-settings.php:22 admin/view/search-settings.php:22
+#: admin/view/single-settings.php:22
+msgid "Content"
+msgstr "Contenu"
+
+#: admin/view/partial/book-information.php:218
+msgid "Cost Type"
+msgstr "Type De Coût"
+
+#: admin/view/partial/book-information.php:158
+#: admin/view/partial/gallery-content.php:87
+msgid "Country"
+msgstr "Pays"
+
+#: admin/view/partial/single-content.php:346
+msgid "Country Label"
+msgstr "Pays De L'Étiquette"
+
+#: admin/view/partial/gallery-content.php:285
+msgid "Currency"
+msgstr "Monnaie"
+
+#: admin/view/partial/gallery-content.php:83
+msgid "Date"
+msgstr "Date"
+
+#: admin/view/partial/single-content.php:277
+msgid "Date Format"
+msgstr "Format De La Date"
+
+#: admin/view/partial/search-content.php:95
+#: admin/view/partial/search-content.php:124
+#: admin/view/partial/search-content.php:153
+#: admin/view/partial/search-content.php:182
+#: admin/view/partial/search-content.php:211
+#: admin/view/partial/search-content.php:242
+#: admin/view/partial/search-content.php:271
+msgid "Default Option"
+msgstr "L'Option Par Défaut"
+
+#: admin/view/partial/gallery-content.php:98
+#: admin/view/partial/search-content.php:92
+#: admin/view/partial/search-content.php:121
+#: admin/view/partial/search-content.php:150
+#: admin/view/partial/search-content.php:179
+#: admin/view/partial/search-content.php:208
+#: admin/view/partial/search-content.php:239
+#: admin/view/partial/search-content.php:268
+msgid "Descending"
+msgstr "Descendant"
+
+#: admin/view/partial/gallery-styles.php:118
+msgid "Description"
+msgstr "Description"
+
+#: admin/cls-books-gallery-admin.php:162
+msgid "Description For Books"
+msgstr "Description Pour Les Livres"
+
+#: admin/view/partial/single-content.php:458
+msgid "Description Label"
+msgstr "Description De L'Étiquette"
+
+#: admin/view/partial/gallery-content.php:170
+msgid "Description Word Length"
+msgstr "Description Longueur De Mot"
+
+#: admin/view/partial/gallery-content.php:20
+msgid "Desktop"
+msgstr "Bureau"
+
+#: admin/view/single-settings.php:9
+msgid "Details Settings"
+msgstr "Détails Des Paramètres"
+
+#: admin/view/partial/book-information.php:174
+msgid "Dimension"
+msgstr "Dimension"
+
+#: admin/view/partial/single-content.php:376
+msgid "Dimension Label"
+msgstr "Dimension De L'Étiquette"
+
+#: admin/view/partial/book-information.php:287
+msgid "Discount Price"
+msgstr "Prix Discount"
+
+#: admin/view/partial/gallery-content.php:147
+#: admin/view/partial/search-content.php:166
+#: admin/view/partial/single-content.php:198
+msgid "Display Author"
+msgstr "Affichage De L'Auteur"
+
+#: admin/view/partial/search-content.php:226
+msgid "Display Book Format"
+msgstr "Affichage Du Format De Livre"
+
+#: admin/view/partial/search-content.php:41
+msgid "Display Book Name"
+msgstr "Affichage Du Nom Du Livre"
+
+#: admin/view/partial/gallery-content.php:194
+msgid "Display Buy Now Button"
+msgstr "Affichage Bouton Acheter Maintenant"
+
+#: admin/view/partial/gallery-content.php:131
+#: admin/view/partial/search-content.php:79
+#: admin/view/partial/single-content.php:213
+msgid "Display Category"
+msgstr "Catégorie D'Affichage"
+
+#: admin/view/partial/single-content.php:246
+msgid "Display Co-Publisher"
+msgstr "Affichage De La Co-Éditeur"
+
+#: admin/view/partial/single-content.php:340
+msgid "Display Country"
+msgstr "Affichage De Pays"
+
+#: admin/view/partial/gallery-content.php:163
+#: admin/view/partial/single-content.php:452
+msgid "Display Description"
+msgstr "Description De L'Écran"
+
+#: admin/view/partial/single-content.php:370
+msgid "Display Dimension"
+msgstr "Dimension D'Affichage"
+
+#: admin/view/partial/gallery-content.php:178
+msgid "Display Download Button"
+msgstr "Affichage Bouton De Téléchargement"
+
+#: admin/view/partial/single-content.php:472
+msgid "Display Download/BuyNow Button"
+msgstr "Afficher Télécharger/BuyNow Button"
+
+#: admin/view/partial/single-content.php:419
+msgid "Display Edition"
+msgstr "Affichage Edition"
+
+#: admin/view/partial/single-content.php:385
+msgid "Display File Size"
+msgstr "Affichage De La Taille Du Fichier"
+
+#: admin/view/partial/single-content.php:42
+msgid "Display Format"
+msgstr "Format D'Affichage"
+
+#: admin/view/partial/single-content.php:159
+msgid "Display Grade Level"
+msgstr "Affichage Du Niveau"
+
+#: admin/view/partial/single-content.php:434
+msgid "Display Illustrator"
+msgstr "Affichage Illustrator"
+
+#: admin/view/partial/search-content.php:60
+#: admin/view/partial/single-content.php:289
+msgid "Display ISBN"
+msgstr "Affichage ISBN"
+
+#: admin/view/partial/single-content.php:307
+msgid "Display ISBN-13"
+msgstr "Affichage ISBN-13"
+
+#: admin/view/partial/single-content.php:404
+msgid "Display Item Weight"
+msgstr "Affichage De L'Élément De Poids"
+
+#: admin/view/partial/search-content.php:137
+#: admin/view/partial/single-content.php:355
+msgid "Display Language"
+msgstr "Langue D'Affichage"
+
+#: admin/view/partial/single-content.php:325
+msgid "Display Pages"
+msgstr "L'Affichage Des Pages"
+
+#: admin/view/partial/gallery-content.php:264
+msgid "Display Pagination"
+msgstr "Affichage De La Pagination"
+
+#: admin/view/partial/single-content.php:264
+msgid "Display Publish Date"
+msgstr "Affichage De La Date De Publication"
+
+#: admin/view/partial/search-content.php:195
+#: admin/view/partial/single-content.php:228
+msgid "Display Publisher"
+msgstr "Affichage De L'Éditeur"
+
+#: admin/view/partial/gallery-content.php:316
+msgid "Display Rating"
+msgstr "Affichage De La Notation"
+
+#: admin/view/partial/single-content.php:120
+msgid "Display Reading Age"
+msgstr "La Lecture De L'Affichage De L'Âge"
+
+#: admin/view/partial/search-content.php:21
+msgid "Display Search Panel"
+msgstr "Affichage Du Panneau De Recherche"
+
+#: admin/view/partial/search-content.php:255
+#: admin/view/partial/single-content.php:81
+msgid "Display Series"
+msgstr "Affichage De La Série"
+
+#: admin/view/partial/single-content.php:480
+msgid "Display Sidebar"
+msgstr "Affichage De La Barre Latérale"
+
+#: admin/view/partial/single-content.php:17
+msgid "Display Sub-Title"
+msgstr "Affichage De Sous-Titre"
+
+#: admin/view/partial/gallery-content.php:234
+msgid "Display Total Books"
+msgstr "Afficher Le Nombre Total Des Livres"
+
+#: admin/view/partial/search-content.php:108
+msgid "Display Year"
+msgstr "Affichage De L'Année"
+
+#: admin/view/partial/gallery-content.php:188
+msgid "Download"
+msgstr "Télécharger"
+
+#: admin/view/partial/gallery-styles.php:63
+msgid "Download Button"
+msgstr "Bouton De Téléchargement"
+
+#: admin/view/partial/book-information.php:182
+msgid "Download Link"
+msgstr "Lien De Téléchargement"
+
+#: admin/view/general-settings.php:72
+msgid "Download When Logged-in"
+msgstr "Télécharger une fois Connecté"
+
+#: admin/cls-books-gallery-admin.php:326
+msgid "Edit Author"
+msgstr "Edit Auteur"
+
+#: admin/cls-books-gallery-admin.php:153
+msgid "Edit Book"
+msgstr "Edition Livre"
+
+#: admin/cls-books-gallery-admin.php:197
+msgid "Edit Book Category"
+msgstr "Modifier La Catégorie Livre"
+
+#: admin/cls-books-gallery-admin.php:223
+msgid "Edit Book Format"
+msgstr "Édition Format De Livre"
+
+#: admin/cls-books-gallery-admin.php:248
+msgid "Edit Book Series"
+msgstr "Edition Livre De La Série"
+
+#: admin/cls-books-gallery-admin.php:301
+msgid "Edit Grade Level"
+msgstr "Modifier Le Niveau De Grade"
+
+#: admin/cls-books-gallery-admin.php:276
+msgid "Edit Reading Age"
+msgstr "Modifier La Lecture D'Âge"
+
+#: admin/view/partial/book-information.php:328
+msgid "Edition"
+msgstr "Edition"
+
+#: admin/view/partial/single-content.php:425
+msgid "Edition Label"
+msgstr "L'Édition De L'Étiquette"
+
+#: admin/view/partial/gallery-content.php:104
+msgid "Enable Book Details Page"
+msgstr "Activer La Page De Détails Du Livre"
+
+#: admin/view/partial/book-information.php:210
+msgid "File Size"
+msgstr "La Taille Du Fichier"
+
+#: admin/view/partial/single-content.php:391
+msgid "File Size Label"
+msgstr "La Taille Du Fichier De L'Étiquette"
+
+#: admin/view/partial/gallery-content.php:61
+msgid "Flip"
+msgstr "Flip"
+
+#: admin/view/partial/gallery-styles.php:91
+#: admin/view/partial/gallery-styles.php:123
+#: admin/view/partial/search-styles.php:162
+#: admin/view/partial/search-styles.php:195
+msgid "Font Color"
+msgstr "La Couleur De La Police"
+
+#: admin/view/partial/gallery-styles.php:109
+#: admin/view/partial/gallery-styles.php:132
+msgid "Font Size"
+msgstr "Taille De La Police"
+
+#: admin/view/partial/gallery-content.php:68
+msgid "For more option please upgrade to pro."
+msgstr "Pour plus d'option, veuillez passer à la version pro."
+
+#: admin/view/partial/single-content.php:60
+msgid "Format Label"
+msgstr "Le Format De L'Étiquette"
+
+#: admin/view/partial/book-information.php:231
+msgid "Free"
+msgstr "Gratuit"
+
+#: admin/view/partial/gallery-content.php:47
+#: admin/view/partial/single-content.php:281
+msgid "Full"
+msgstr "Plein"
+
+#: admin/view/partial/gallery-content.php:17
+msgid "Gallary Columns"
+msgstr "Gallary Colonnes"
+
+#: admin/view/general-settings.php:39
+msgid "Gallery Page Slug"
+msgstr "Page De La Galerie Slug"
+
+#: admin/cls-books-gallery-admin.php:41 admin/cls-books-gallery-admin.php:42
+#: admin/view/gallery-settings.php:9
+msgid "Gallery Settings"
+msgstr "Paramètres De Galerie"
+
+#: admin/cls-books-gallery-admin.php:31 admin/cls-books-gallery-admin.php:32
+#: admin/view/general-settings.php:22
+msgid "General Settings"
+msgstr "Paramètres Généraux"
+
+#: admin/cls-books-gallery-admin.php:295 admin/cls-books-gallery-admin.php:296
+#: admin/cls-books-gallery-admin.php:305
+msgid "Grade Level"
+msgstr "Niveau"
+
+#: admin/view/partial/single-content.php:177
+msgid "Grade Level Label"
+msgstr "Le Niveau Scolaire De L'Étiquette"
+
+#: lib/freemius-integrator.php:61
+#, php-format
+msgid "Hey %1$s"
+msgstr "Hey %1$s"
+
+#: admin/view/partial/gallery-styles.php:100
+msgid "Hover Color"
+msgstr "Hover Couleur"
+
+#: admin/view/partial/book-information.php:348
+msgid "Illustrator"
+msgstr "Illustrator"
+
+#: admin/view/partial/single-content.php:440
+msgid "Illustrator Label"
+msgstr "Illustrator Étiquette"
+
+#: admin/view/partial/gallery-content.php:52
+msgid "Image Animation"
+msgstr "Animation De L'Image"
+
+#: admin/view/partial/gallery-content.php:40
+msgid "Image Width"
+msgstr "La Largeur De L'Image"
+
+#: admin/view/wbg-api-import.php:166
+msgid "Import Books"
+msgstr "L'Importation De Livres"
+
+#: admin/view/wbg-api-import.php:128
+msgid "Import Books From API"
+msgstr "L'importation de Livres à Partir de l'API"
+
+#: admin/view/wbg-api-import.php:119
+msgid "Import Books Successful"
+msgstr "L'Importation De Livres À Succès"
+
+#: admin/view/partial/book-information.php:378
+msgid "Inactive"
+msgstr "Inactif"
+
+#: admin/view/partial/search-styles.php:112
+msgid "Input Fields"
+msgstr "Les Champs De Saisie"
+
+#: admin/view/partial/book-information.php:242
+msgid "Is Featured"
+msgstr "Est En Vedette"
+
+#: admin/view/partial/book-information.php:102
+#: admin/view/partial/search-content.php:69
+msgid "ISBN"
+msgstr "ISBN"
+
+#: admin/view/partial/single-content.php:295
+msgid "ISBN Label"
+msgstr "ISBN Étiquette"
+
+#: admin/view/wbg-api-import.php:157
+msgid "ISBN-10"
+msgstr "ISBN-10"
+
+#: admin/view/partial/book-information.php:110
+msgid "ISBN-13"
+msgstr "ISBN-13"
+
+#: admin/view/partial/single-content.php:313
+msgid "ISBN-13 Label"
+msgstr "ISBN-13"
+
+#: admin/view/partial/book-information.php:308
+msgid "Item Weight"
+msgstr "Élément De Poids"
+
+#: admin/view/partial/single-content.php:410
+msgid "Item Weight Label"
+msgstr "Poids De L'Étiquette"
+
+#: admin/view/partial/book-information.php:166
+#: admin/view/partial/gallery-content.php:86
+msgid "Language"
+msgstr "Langue"
+
+#: admin/view/partial/single-content.php:361
+msgid "Language Label"
+msgstr "Langue De L'Étiquette"
+
+#: admin/view/partial/gallery-content.php:31
+msgid "Mobile"
+msgstr "Mobile"
+
+#: admin/view/general-settings.php:64
+msgid "Multiple"
+msgstr "Plusieurs"
+
+#: admin/view/partial/gallery-content.php:80
+msgid "Name"
+msgstr "Nom"
+
+#: admin/cls-books-gallery-admin.php:329
+msgid "New Author"
+msgstr "Auteur De Nouvelles"
+
+#: admin/cls-books-gallery-admin.php:200
+msgid "New Book Category Name"
+msgstr "Nouveau Livre Nom De La Catégorie"
+
+#: admin/cls-books-gallery-admin.php:226
+msgid "New Book Formate"
+msgstr "Nouveau Livre De Formiate De"
+
+#: admin/cls-books-gallery-admin.php:251
+msgid "New Book Series"
+msgstr "Nouveau Livre De La Série"
+
+#: admin/cls-books-gallery-admin.php:304
+msgid "New Grade Level"
+msgstr "Nouveau Niveau"
+
+#: admin/cls-books-gallery-admin.php:279
+msgid "New Reading Age"
+msgstr "Nouvelle Lecture De L'Âge"
+
+#: admin/view/partial/book-information.php:258
+msgid "No"
+msgstr "Pas de"
+
+#: front/view/featured-view.php:109
+msgid "No Books Available!"
+msgstr "Pas De Livres Disponibles!"
+
+#: front/view/gallery.php:424
+msgid "No books found."
+msgstr "Pas de livres trouvés."
+
+#: front/view/featured-content.php:20 front/view/featured-content.php:27
+#: front/view/featured-content.php:30 front/view/gallery.php:222
+#: front/view/gallery.php:229 front/view/gallery.php:232
+#: front/view/gallery.php:243 front/view/gallery.php:250
+#: front/view/gallery.php:254 front/view/single.php:103 front/view/slide.php:20
+#: front/view/slide.php:27 front/view/slide.php:30
+msgid "No Image Available"
+msgstr "Aucune Image Disponible"
+
+#: admin/view/partial/gallery-content.php:56
+msgid "None"
+msgstr "Aucun"
+
+#: admin/cls-books-gallery-admin.php:156
+msgid "Not Found"
+msgstr "Pas Trouvé"
+
+#: admin/cls-books-gallery-admin.php:157
+msgid "Not found in Trash"
+msgstr "Pas trouvé dans la Corbeille"
+
+#: admin/view/partial/single-content.php:284
+msgid "Only Year"
+msgstr "Seulement L'Année"
+
+#: admin/view/partial/gallery-content.php:114
+msgid "Open Book Details in New Tab"
+msgstr "Livre ouvert de Détails dans un Nouvel Onglet"
+
+#: admin/view/partial/gallery-content.php:91
+#: admin/view/partial/search-content.php:85
+#: admin/view/partial/search-content.php:114
+#: admin/view/partial/search-content.php:143
+#: admin/view/partial/search-content.php:172
+#: admin/view/partial/search-content.php:201
+#: admin/view/partial/search-content.php:232
+#: admin/view/partial/search-content.php:261
+msgid "Order By"
+msgstr "Commande Par"
+
+#: admin/view/partial/book-information.php:150
+msgid "Pages"
+msgstr "Pages"
+
+#: admin/view/partial/single-content.php:331
+msgid "Pages Label"
+msgstr "Pages Étiquette"
+
+#: admin/cls-books-gallery-admin.php:324
+msgid "Parent Author"
+msgstr "Parent De L'Auteur"
+
+#: admin/cls-books-gallery-admin.php:325
+msgid "Parent Author:"
+msgstr "Parent De L'Auteur:"
+
+#: admin/cls-books-gallery-admin.php:148
+msgid "Parent Book"
+msgstr "Livre Parent"
+
+#: admin/cls-books-gallery-admin.php:195
+msgid "Parent Book Category"
+msgstr "Parent Catégorie Livre"
+
+#: admin/cls-books-gallery-admin.php:196
+msgid "Parent Book Category:"
+msgstr "Livre Parent Catégorie:"
+
+#: admin/cls-books-gallery-admin.php:221
+msgid "Parent Book Format"
+msgstr "Parent Format De Livre"
+
+#: admin/cls-books-gallery-admin.php:222
+msgid "Parent Book Format:"
+msgstr "Parent Format De Livre:"
+
+#: admin/cls-books-gallery-admin.php:246
+msgid "Parent Book Series"
+msgstr "Parent D'Une Série De Livres"
+
+#: admin/cls-books-gallery-admin.php:247
+msgid "Parent Book Series:"
+msgstr "Parent D'Une Série De Livres:"
+
+#: admin/cls-books-gallery-admin.php:299
+msgid "Parent Grade Level"
+msgstr "Parent Niveau"
+
+#: admin/cls-books-gallery-admin.php:300
+msgid "Parent Grade Level:"
+msgstr "Parent Niveau Scolaire:"
+
+#: admin/cls-books-gallery-admin.php:274
+msgid "Parent Reading Age"
+msgstr "Parent La Lecture D'Âge"
+
+#: admin/cls-books-gallery-admin.php:275
+msgid "Parent Reading Age:"
+msgstr "Parent De La Lecture De L'Âge:"
+
+#: admin/view/partial/search-content.php:47
+#: admin/view/partial/search-content.php:66
+msgid "Placeholder Text"
+msgstr "Texte De L'Espace Réservé"
+
+#: lib/freemius-integrator.php:62
+#, php-format
+msgid ""
+"Please help us improve %2$s! If you opt-in, some data about your usage of "
+"%2$s will be sent to %5$s. If you skip this, that's okay! %2$s will still "
+"work just fine."
+msgstr ""
+"Veuillez nous aider à améliorer %2$s! Si vous acceptez, certaines données "
+"concernant votre utilisation de %2$s sera envoyé à %5$s. Si vous ignorez "
+"cela, c'est d'accord! %2$s fonctionne toujours très bien."
+
+#: admin/view/partial/book-information.php:196
+#: admin/view/partial/book-information.php:224
+#: admin/view/partial/book-information.php:272
+#: admin/view/partial/book-information.php:293
+#: admin/view/partial/gallery-content.php:200
+#: admin/view/partial/gallery-content.php:219
+#: admin/view/partial/gallery-content.php:250
+#: admin/view/partial/gallery-content.php:270
+#: admin/view/partial/gallery-content.php:291
+#: admin/view/partial/single-content.php:48
+#: admin/view/partial/single-content.php:66
+#: admin/view/partial/single-content.php:87
+#: admin/view/partial/single-content.php:105
+#: admin/view/partial/single-content.php:126
+#: admin/view/partial/single-content.php:144
+#: admin/view/partial/single-content.php:165
+#: admin/view/partial/single-content.php:183
+msgid "Please Upgrade Now!"
+msgstr "Veuillez Mettre À Jour Maintenant!"
+
+#: admin/view/general-settings.php:78
+msgid "Please Upgrade to Professional!"
+msgstr "Veuillez mettre à niveau pour Professionnels!"
+
+#: admin/view/general-settings.php:48
+msgid "Prefered Author"
+msgstr "Préférée De L'Auteur"
+
+#: admin/view/partial/book-information.php:234
+msgid "Premium"
+msgstr "Premium"
+
+#: admin/view/wbg-api-import.php:145
+msgid "Provide Your ISBN-10"
+msgstr "Fournir Votre numéro ISBN-10"
+
+#: admin/view/partial/single-content.php:270
+msgid "Publish Date Label"
+msgstr "Date De Publication De L'Étiquette"
+
+#: admin/view/partial/book-information.php:94
+#: admin/view/partial/gallery-content.php:85
+msgid "Published On"
+msgstr "Publié Le"
+
+#: admin/view/partial/book-information.php:63
+#: admin/view/partial/gallery-content.php:84
+msgid "Publisher"
+msgstr "Editeur"
+
+#: admin/view/partial/single-content.php:234
+msgid "Publisher Label"
+msgstr "Étiquette De L'Éditeur"
+
+#: admin/cls-books-gallery-admin.php:270 admin/cls-books-gallery-admin.php:271
+#: admin/cls-books-gallery-admin.php:280
+msgid "Reading Age"
+msgstr "La Lecture D'Âge"
+
+#: admin/view/partial/single-content.php:138
+#, fuzzy
+#| msgid "Rading Age Label"
+msgid "Reading Age Label"
+msgstr "Rading L'Âge De L'Étiquette"
+
+#: admin/view/partial/book-information.php:266
+msgid "Regular Price"
+msgstr "Prix Régulier"
+
+#: admin/cls-books-gallery-admin.php:568
+msgid "Remove Book Cover Here"
+msgstr "Retirez La Couverture Du Livre Ici"
+
+#: admin/view/partial/search-styles.php:172
+msgid "Reset Button"
+msgstr "Bouton De Réinitialisation"
+
+#: admin/view/partial/gallery-content.php:57
+msgid "Rotate 360"
+msgstr "Effectuer une rotation de 360"
+
+#: admin/view/general-settings.php:94
+#: admin/view/partial/gallery-content.php:349
+#: admin/view/partial/gallery-styles.php:144
+#: admin/view/partial/search-content.php:306
+#: admin/view/partial/search-styles.php:203
+#: admin/view/partial/single-content.php:488
+msgid "Save Settings"
+msgstr "Enregistrer Les Paramètres"
+
+#: admin/cls-books-gallery-admin.php:322
+msgid "Search Author"
+msgstr "Recherche Auteur"
+
+#: admin/cls-books-gallery-admin.php:155
+msgid "Search Book"
+msgstr "Recherche Livre"
+
+#: admin/cls-books-gallery-admin.php:193
+msgid "Search Book Categories"
+msgstr "Recherche Livre De Catégories"
+
+#: admin/cls-books-gallery-admin.php:219
+msgid "Search Book Formats"
+msgstr "Recherche Livre Standards ("
+
+#: admin/cls-books-gallery-admin.php:244
+msgid "Search Book Series"
+msgstr "Recherche Livre De La Série"
+
+#: admin/view/partial/search-content.php:300
+msgid "Search Books"
+msgstr "Recherche De Livres"
+
+#: admin/view/partial/search-styles.php:139
+msgid "Search Button"
+msgstr "Bouton De Recherche"
+
+#: admin/view/partial/search-content.php:297
+msgid "Search Button Text"
+msgstr "Bouton De Recherche De Texte"
+
+#: admin/cls-books-gallery-admin.php:297
+msgid "Search Grade Level"
+msgstr "La Recherche De Qualité Au Niveau"
+
+#: admin/view/partial/search-content.php:29
+msgid "Search Items"
+msgstr "Les Éléments De Recherche"
+
+#: admin/view/partial/search-styles.php:22
+msgid "Search Panel"
+msgstr "Le Panneau De Recherche"
+
+#: admin/cls-books-gallery-admin.php:51 admin/cls-books-gallery-admin.php:52
+#: admin/view/search-settings.php:9
+msgid "Search Panel Settings"
+msgstr "La Recherche Des Paramètres Du Panneau"
+
+#: admin/cls-books-gallery-admin.php:272
+msgid "Search Reading Age"
+msgstr "De Recherche, De Lecture D'Âge"
+
+#: admin/view/partial/gallery-content.php:79
+msgid "Select One"
+msgstr "Sélectionnez L'Une"
+
+#: freemius/templates/plugin-info/description.php:30
+msgid "selling_point_"
+msgstr "selling_point_"
+
+#: admin/view/partial/single-content.php:99
+msgid "Series Label"
+msgstr "L'Étiquette De La Série"
+
+#: admin/cls-books-gallery-admin.php:567
+msgid "Set Book Cover Here"
+msgstr "La Couverture Du Livre Set Ici"
+
+#: admin/view/partial/gallery-content.php:341
+msgid "Shortcode:"
+msgstr "Shortcode:"
+
+#: front/view/gallery.php:200
+msgid "Showing"
+msgstr "Montrant"
+
+#: admin/view/general-settings.php:61
+msgid "Single"
+msgstr "Unique"
+
+#: admin/view/partial/gallery-content.php:81
+msgid "Slug/Url"
+msgstr "Limace/Url"
+
+#: admin/view/partial/gallery-content.php:44
+msgid "Small"
+msgstr "Petit"
+
+#: admin/view/partial/gallery-content.php:75
+msgid "Sorting By"
+msgstr "Tri Par"
+
+#: admin/view/partial/book-information.php:371
+#, fuzzy
+#| msgid "Status:"
+msgid "Status"
+msgstr "Statut:"
+
+#: admin/view/gallery-settings.php:25 admin/view/search-settings.php:25
+#: admin/view/single-settings.php:25
+msgid "Styles"
+msgstr "Styles"
+
+#: admin/view/partial/book-information.php:35
+msgid "Sub Title"
+msgstr "Sous-Titre"
+
+#: front/view/single.php:449
+msgid "Tags"
+msgstr "Tags"
+
+#: admin/view/general-settings.php:43
+msgid ""
+"This is your Gallery Page URL slug. Please do not use books as gallery page."
+msgstr ""
+"Ceci est la Page de votre Galerie URL slug. S'il vous plaît ne pas utiliser "
+"les livres comme page de la galerie."
+
+#: admin/view/partial/gallery-styles.php:86
+msgid "Title"
+msgstr "Titre"
+
+#: admin/view/partial/gallery-content.php:123
+msgid "Title Word Length"
+msgstr "Titre De La Longueur De Mot"
+
+#: admin/cls-books-gallery-admin.php:327
+msgid "Update Author"
+msgstr "Mise À Jour De L'Auteur"
+
+#: admin/cls-books-gallery-admin.php:154
+msgid "Update Book"
+msgstr "Mise À Jour Du Livre"
+
+#: admin/cls-books-gallery-admin.php:198
+msgid "Update Book Category"
+msgstr "Mise À Jour Du Livre De La Catégorie"
+
+#: admin/cls-books-gallery-admin.php:224
+msgid "Update Book Format"
+msgstr "Mise À Jour Du Format De Livre"
+
+#: admin/cls-books-gallery-admin.php:249
+msgid "Update Book Series"
+msgstr "Mise À Jour De La Série De Livres De"
+
+#: admin/cls-books-gallery-admin.php:302
+msgid "Update Grade Level"
+msgstr "Mise À Niveau"
+
+#: admin/cls-books-gallery-admin.php:277
+msgid "Update Reading Age"
+msgstr "Mise À Jour De La Lecture D'Âge"
+
+#: admin/view/partial/book-information.php:314
+#: admin/view/partial/book-information.php:334
+#: admin/view/partial/book-information.php:354
+msgid "Upgrade to Professional"
+msgstr "Mise à niveau pour Professionnels"
+
+#: admin/view/general-settings.php:54
+#: admin/view/partial/book-information.php:41
+#: admin/view/partial/book-information.php:77
+#: admin/view/partial/book-information.php:116
+#: admin/view/partial/book-information.php:136
+#: admin/view/partial/book-information.php:248
+#: admin/view/partial/gallery-content.php:322
+#: admin/view/partial/search-styles.php:33
+#: admin/view/partial/search-styles.php:54
+#: admin/view/partial/search-styles.php:75
+#: admin/view/partial/search-styles.php:96
+#: admin/view/partial/search-styles.php:123
+#: admin/view/partial/single-content.php:23 admin/view/wbg-api-import.php:151
+msgid "Upgrade to Professional!"
+msgstr "Mise à niveau pour Professionnels!"
+
+#: admin/cls-books-gallery-admin.php:81 admin/cls-books-gallery-admin.php:82
+msgid "Usage & Tutorial"
+msgstr "Utilisation Et Tutoriel"
+
+#: admin/view/partial/book-information.php:279
+#: admin/view/partial/book-information.php:300
+msgid "Use 999 For 9.99"
+msgstr "Utilisation 999 Pour 9,99"
+
+#: admin/view/wbg-api-import.php:158
+msgid "Use comma between multiple ISBN/s"
+msgstr "Utilisez une virgule entre plusieurs ISBN/s"
+
+#: admin/cls-books-gallery-admin.php:150
+msgid "View Book"
+msgstr "Afficher Livre"
+
+#: admin/cls-books-gallery-admin.php:147
+msgid "WBG Books"
+msgstr "WBG Livres"
+
+#: admin/view/general-settings.php:86
+msgid "With enabled only logged-in users can download books."
+msgstr ""
+"Avec activée uniquement les utilisateurs enregistrés peuvent télécharger des "
+"livres."
+
+#: admin/view/partial/gallery-content.php:330
+msgid "WP Customer Reviews Plugin Integration Required For This Feature."
+msgstr "WP avis des Clients Plugin d'Intégration Requis Pour Cette Fonction."
+
+#: admin/view/partial/book-information.php:255
+msgid "Yes"
+msgstr "Oui"
+
+#: core/gallery-content.php:172
+msgid "« "
+msgstr "« "
