@@ -526,7 +526,7 @@ CREATE TABLE `wp_users` (
 
 LOCK TABLES `wp_users` WRITE;
 /*!40000 ALTER TABLE `wp_users` DISABLE KEYS */;
-INSERT INTO `wp_users` VALUES (1,'wp-admin','$P$B5MQfnGiSdCwHNHstQSlVbfFyNBIXK0','wp-admin','dev.isaque21@gmail.com','http://wp-alb-1451169106.us-east-1.elb.amazonaws.com','2023-08-26 18:08:45','',0,'wp-admin');
+INSERT INTO `wp_users` VALUES (1,'wp-admin','your_password_here','wp-admin','your_email_here','http://wp-alb-1451169106.us-east-1.elb.amazonaws.com','2023-08-26 18:08:45','',0,'wp-admin');
 /*!40000 ALTER TABLE `wp_users` ENABLE KEYS */;
 UNLOCK TABLES;
 
